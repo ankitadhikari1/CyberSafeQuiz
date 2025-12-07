@@ -1,0 +1,7802 @@
+[
+  {
+    "id": "q1",
+    "category": "phishing",
+    "difficulty": "easy",
+    "question": "Which of the following is a common sign of a phishing email?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Email from your friend with no links"
+      },
+      {
+        "id": "b",
+        "text": "Generic greeting and urgent request to click a link"
+      },
+      {
+        "id": "c",
+        "text": "Official email with no spelling mistakes"
+      },
+      {
+        "id": "d",
+        "text": "A newsletter you consciously subscribed to"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Phishing emails frequently use urgent language and generic greetings to pressure users into clicking malicious links."
+  },
+  {
+    "id": "q2",
+    "category": "passwords",
+    "difficulty": "medium",
+    "question": "What is the safest way to manage multiple complex passwords?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Use the same strong password everywhere"
+      },
+      {
+        "id": "b",
+        "text": "Write passwords on a sticky note under the keyboard"
+      },
+      {
+        "id": "c",
+        "text": "Use a reputable password manager"
+      },
+      {
+        "id": "d",
+        "text": "Store them in a plain text file on the desktop"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Password managers securely encrypt and store unique passwords for each account, which reduces the risk from single-account compromise."
+  },
+  {
+    "id": "q3",
+    "category": "network",
+    "difficulty": "easy",
+    "question": "What does HTTPS indicate about a website connection?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The website is hosted in your country"
+      },
+      {
+        "id": "b",
+        "text": "The connection between your browser and the site is encrypted"
+      },
+      {
+        "id": "c",
+        "text": "The website is completely safe and cannot be hacked"
+      },
+      {
+        "id": "d",
+        "text": "The website does not use cookies"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "HTTPS uses TLS to encrypt the traffic between your browser and the web server, protecting data in transit from eavesdropping or tampering."
+  },
+  {
+    "id": "q4",
+    "category": "compliance",
+    "difficulty": "medium",
+    "question": "Which regulation focuses on the protection of personal data of EU citizens?",
+    "options": [
+      {
+        "id": "a",
+        "text": "HIPAA"
+      },
+      {
+        "id": "b",
+        "text": "PCI DSS"
+      },
+      {
+        "id": "c",
+        "text": "GDPR"
+      },
+      {
+        "id": "d",
+        "text": "ISO 9001"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "The General Data Protection Regulation (GDPR) is an EU law focused on protecting personal data and privacy."
+  },
+  {
+    "id": "q5",
+    "category": "malware",
+    "difficulty": "easy",
+    "question": "Ransomware primarily does which of the following?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Overheats your CPU"
+      },
+      {
+        "id": "b",
+        "text": "Encrypts your files and demands payment"
+      },
+      {
+        "id": "c",
+        "text": "Monitors keyboard input for passwords only"
+      },
+      {
+        "id": "d",
+        "text": "Improves your system performance"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Ransomware encrypts data and demands a ransom payment, typically in cryptocurrency, to provide a decryption key."
+  },
+  {
+    "id": "q6",
+    "category": "passwords",
+    "difficulty": "easy",
+    "question": "Which password is most secure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Password123"
+      },
+      {
+        "id": "b",
+        "text": "Summer2024"
+      },
+      {
+        "id": "c",
+        "text": "C0mpl!ex_Phrase#92"
+      },
+      {
+        "id": "d",
+        "text": "john1995"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "A strong password uses a mix of upper and lower case letters, numbers, and special characters, and avoids dictionary words or personal information."
+  },
+  {
+    "id": "q7",
+    "category": "social-engineering",
+    "difficulty": "medium",
+    "question": "A caller claims to be from IT and urgently asks for your login password to \u201cfix an issue.\u201d What should you do?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Provide the password but change it later"
+      },
+      {
+        "id": "b",
+        "text": "Refuse to share your password and report the incident"
+      },
+      {
+        "id": "c",
+        "text": "Ask a colleague if the caller sounds trustworthy"
+      },
+      {
+        "id": "d",
+        "text": "Only share part of your password"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Legitimate IT staff will never ask for your password. Requests like this should be refused and reported as possible social engineering."
+  },
+  {
+    "id": "q8",
+    "category": "device-security",
+    "difficulty": "easy",
+    "question": "What is the best way to secure a laptop when working in a public place?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Leave it unattended for short breaks"
+      },
+      {
+        "id": "b",
+        "text": "Use a strong password only"
+      },
+      {
+        "id": "c",
+        "text": "Use a cable lock and enable screen lock when away"
+      },
+      {
+        "id": "d",
+        "text": "Turn the brightness to the lowest setting"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Physical security (like cable locks) combined with automatic screen locking helps prevent unauthorized access in public spaces."
+  },
+  {
+    "id": "q9",
+    "category": "network",
+    "difficulty": "medium",
+    "question": "Why is using public, unsecured Wi\u2011Fi risky for sensitive activities like online banking?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Public Wi\u2011Fi is always slow"
+      },
+      {
+        "id": "b",
+        "text": "Other users on the network may intercept your traffic"
+      },
+      {
+        "id": "c",
+        "text": "It automatically installs updates"
+      },
+      {
+        "id": "d",
+        "text": "It blocks secure websites"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "On unsecured Wi\u2011Fi, attackers on the same network can attempt to intercept or tamper with traffic, especially if encryption is not enforced correctly."
+  },
+  {
+    "id": "q10",
+    "category": "compliance",
+    "difficulty": "medium",
+    "question": "In a security audit, what is the primary goal of reviewing access control lists (ACLs)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To ensure strong password complexity rules"
+      },
+      {
+        "id": "b",
+        "text": "To verify that users have only the permissions they need"
+      },
+      {
+        "id": "c",
+        "text": "To monitor network bandwidth usage"
+      },
+      {
+        "id": "d",
+        "text": "To check the age of all user accounts"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "ACL reviews help enforce the principle of least privilege by making sure users and systems have only the access necessary to perform their roles."
+  },
+  {
+    "id": "q11",
+    "category": "application-security",
+    "difficulty": "medium",
+    "question": "Which practice best helps prevent SQL injection attacks?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Storing SQL queries in environment variables"
+      },
+      {
+        "id": "b",
+        "text": "Using parameterized queries or prepared statements"
+      },
+      {
+        "id": "c",
+        "text": "Turning off database logging"
+      },
+      {
+        "id": "d",
+        "text": "Running the database on a different port"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Parameterized queries separate SQL code from user input, preventing attackers from injecting malicious SQL through input fields."
+  },
+  {
+    "id": "q12",
+    "category": "secure-config",
+    "difficulty": "easy",
+    "question": "Why is it important to change default usernames and passwords on network devices?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To make the device run faster"
+      },
+      {
+        "id": "b",
+        "text": "Default credentials are widely known and easily abused"
+      },
+      {
+        "id": "c",
+        "text": "It voids the device warranty"
+      },
+      {
+        "id": "d",
+        "text": "It enables automatic updates"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Default credentials are publicly documented and often targeted by attackers, so they must be changed to unique, strong passwords."
+  },
+  {
+    "id": "q13",
+    "category": "backup",
+    "difficulty": "medium",
+    "question": "Which backup strategy best supports recovery from ransomware?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Keeping a single backup on the same machine"
+      },
+      {
+        "id": "b",
+        "text": "Using offline or immutable backups stored separately"
+      },
+      {
+        "id": "c",
+        "text": "Relying only on cloud sync folders"
+      },
+      {
+        "id": "d",
+        "text": "Never deleting old backups from the same disk"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Offline or immutable backups stored separately from production systems are less likely to be encrypted by ransomware and support reliable recovery."
+  },
+  {
+    "id": "q14",
+    "category": "identity-access",
+    "difficulty": "medium",
+    "question": "What is the main security benefit of Multi-Factor Authentication (MFA)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It removes the need for passwords entirely"
+      },
+      {
+        "id": "b",
+        "text": "It adds an extra verification factor beyond the password"
+      },
+      {
+        "id": "c",
+        "text": "It hides the login page from attackers"
+      },
+      {
+        "id": "d",
+        "text": "It encrypts all data in the account"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "MFA requires additional proofs of identity (like a code or biometric), making it harder for attackers to access accounts even if passwords are stolen."
+  },
+  {
+    "id": "q15",
+    "category": "logging-monitoring",
+    "difficulty": "medium",
+    "question": "During a security audit, why is centralized logging important?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It speeds up application performance"
+      },
+      {
+        "id": "b",
+        "text": "It allows easier correlation and detection of suspicious activities"
+      },
+      {
+        "id": "c",
+        "text": "It automatically fixes configuration errors"
+      },
+      {
+        "id": "d",
+        "text": "It hides logs from administrators"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Centralized logging aggregates events from many systems, enabling auditors and analysts to detect patterns and anomalies more effectively."
+  },
+  {
+    "id": "q16",
+    "category": "data-protection",
+    "difficulty": "medium",
+    "question": "Which of the following is an example of data at rest?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Data being transmitted over HTTPS"
+      },
+      {
+        "id": "b",
+        "text": "Data stored on an encrypted hard drive"
+      },
+      {
+        "id": "c",
+        "text": "Voice data during a phone call"
+      },
+      {
+        "id": "d",
+        "text": "Video conferencing stream"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Data at rest refers to information stored on a device or storage medium, such as on an encrypted hard drive or database."
+  },
+  {
+    "id": "q17",
+    "category": "cloud-security",
+    "difficulty": "medium",
+    "question": "In a shared responsibility model for cloud security, the customer is typically responsible for:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical security of the data center"
+      },
+      {
+        "id": "b",
+        "text": "Securing workloads, data, and access configurations"
+      },
+      {
+        "id": "c",
+        "text": "Maintaining power and cooling for servers"
+      },
+      {
+        "id": "d",
+        "text": "Guarding perimeter fences"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Cloud providers secure the underlying infrastructure, while customers must secure their data, identities, and configuration of services."
+  },
+  {
+    "id": "q18",
+    "category": "email-security",
+    "difficulty": "easy",
+    "question": "Which action is safest when you receive an unexpected attachment from an unknown sender?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Open it to see what it is"
+      },
+      {
+        "id": "b",
+        "text": "Forward it to colleagues to ask their opinion"
+      },
+      {
+        "id": "c",
+        "text": "Delete the email or report it as spam/phishing"
+      },
+      {
+        "id": "d",
+        "text": "Reply asking if it is safe"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Unexpected attachments from unknown senders may contain malware; best practice is to delete or report them without opening."
+  },
+  {
+    "id": "q19",
+    "category": "secure-development",
+    "difficulty": "medium",
+    "question": "Code reviews help security primarily by:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Guaranteeing zero bugs"
+      },
+      {
+        "id": "b",
+        "text": "Allowing multiple people to spot insecure patterns or logic"
+      },
+      {
+        "id": "c",
+        "text": "Making code run faster"
+      },
+      {
+        "id": "d",
+        "text": "Replacing the need for security testing"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Having more than one person review code increases the chance of catching security issues such as unsafe input handling or logic flaws."
+  },
+  {
+    "id": "q20",
+    "category": "incident-response",
+    "difficulty": "medium",
+    "question": "What is the first action in most formal incident response processes after detecting a potential security incident?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eradication of all affected systems"
+      },
+      {
+        "id": "b",
+        "text": "Notification of regulators"
+      },
+      {
+        "id": "c",
+        "text": "Containment and initial triage to limit impact"
+      },
+      {
+        "id": "d",
+        "text": "Public announcement on social media"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "After detection, responders typically focus on containing the incident to limit damage while they analyze the scope and impact."
+  },
+  {
+    "category": "phishing",
+    "difficulty": "easy",
+    "question": "What should you do if you receive an email asking for your password?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Reply with your password"
+      },
+      {
+        "id": "b",
+        "text": "Delete it and never share passwords via email"
+      },
+      {
+        "id": "c",
+        "text": "Forward it to friends"
+      },
+      {
+        "id": "d",
+        "text": "Click any links in the email"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Legitimate organizations never ask for passwords via email. Delete suspicious emails.",
+    "id": "q21"
+  },
+  {
+    "category": "passwords",
+    "difficulty": "easy",
+    "question": "What makes a password strong?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Using your name and birthdate"
+      },
+      {
+        "id": "b",
+        "text": "Long, random combination of letters, numbers, and symbols"
+      },
+      {
+        "id": "c",
+        "text": "A single dictionary word"
+      },
+      {
+        "id": "d",
+        "text": "123456"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Strong passwords are long, random, and include various character types.",
+    "id": "q22"
+  },
+  {
+    "category": "network",
+    "difficulty": "easy",
+    "question": "What does the padlock icon in your browser mean?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The website is expensive"
+      },
+      {
+        "id": "b",
+        "text": "Your connection is encrypted"
+      },
+      {
+        "id": "c",
+        "text": "The website is slow"
+      },
+      {
+        "id": "d",
+        "text": "You need to pay"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The padlock indicates HTTPS encryption, protecting your data in transit.",
+    "id": "q23"
+  },
+  {
+    "category": "malware",
+    "difficulty": "easy",
+    "question": "What is a computer virus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A hardware component"
+      },
+      {
+        "id": "b",
+        "text": "Malicious software that replicates and spreads"
+      },
+      {
+        "id": "c",
+        "text": "A type of firewall"
+      },
+      {
+        "id": "d",
+        "text": "A network cable"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "A virus is malicious software that attaches to files and spreads to other systems.",
+    "id": "q24"
+  },
+  {
+    "category": "email-security",
+    "difficulty": "easy",
+    "question": "What is a suspicious sign in an email?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Proper grammar and spelling"
+      },
+      {
+        "id": "b",
+        "text": "Urgent language and spelling errors"
+      },
+      {
+        "id": "c",
+        "text": "From a known sender"
+      },
+      {
+        "id": "d",
+        "text": "No attachments"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Urgent language and spelling errors are common red flags in phishing emails.",
+    "id": "q25"
+  },
+  {
+    "category": "device-security",
+    "difficulty": "easy",
+    "question": "Why should you lock your phone?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To save battery"
+      },
+      {
+        "id": "b",
+        "text": "To prevent unauthorized access"
+      },
+      {
+        "id": "c",
+        "text": "To make it faster"
+      },
+      {
+        "id": "d",
+        "text": "It's not necessary"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Locking your device prevents others from accessing your personal information.",
+    "id": "q26"
+  },
+  {
+    "category": "backup",
+    "difficulty": "easy",
+    "question": "How often should you back up important files?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Never"
+      },
+      {
+        "id": "b",
+        "text": "Regularly, depending on how often files change"
+      },
+      {
+        "id": "c",
+        "text": "Once a year"
+      },
+      {
+        "id": "d",
+        "text": "Only when asked"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Regular backups ensure you can recover data if lost or corrupted.",
+    "id": "q27"
+  },
+  {
+    "category": "social-engineering",
+    "difficulty": "easy",
+    "question": "Someone calls claiming to be from Microsoft and says your computer has a virus. What should you do?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Give them remote access"
+      },
+      {
+        "id": "b",
+        "text": "Hang up - this is a scam"
+      },
+      {
+        "id": "c",
+        "text": "Provide your credit card"
+      },
+      {
+        "id": "d",
+        "text": "Share your passwords"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Legitimate tech support doesn't cold-call. This is a common scam.",
+    "id": "q28"
+  },
+  {
+    "category": "secure-config",
+    "difficulty": "easy",
+    "question": "Why should you install software updates?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They're annoying"
+      },
+      {
+        "id": "b",
+        "text": "They fix security vulnerabilities"
+      },
+      {
+        "id": "c",
+        "text": "They slow down your computer"
+      },
+      {
+        "id": "d",
+        "text": "They're unnecessary"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Updates patch security holes and fix bugs that attackers exploit.",
+    "id": "q29"
+  },
+  {
+    "category": "data-protection",
+    "difficulty": "easy",
+    "question": "What is personally identifiable information (PII)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Public information"
+      },
+      {
+        "id": "b",
+        "text": "Data that can identify a specific person"
+      },
+      {
+        "id": "c",
+        "text": "Random numbers"
+      },
+      {
+        "id": "d",
+        "text": "System files"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "PII includes names, SSNs, addresses, and other data that can identify individuals.",
+    "id": "q30"
+  },
+  {
+    "category": "phishing",
+    "difficulty": "easy",
+    "question": "What should you do if you receive an email asking for your password?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Reply with your password"
+      },
+      {
+        "id": "b",
+        "text": "Delete it and never share passwords via email"
+      },
+      {
+        "id": "c",
+        "text": "Forward it to friends"
+      },
+      {
+        "id": "d",
+        "text": "Click any links in the email"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Legitimate organizations never ask for passwords via email. Delete suspicious emails.",
+    "id": "q31"
+  },
+  {
+    "category": "passwords",
+    "difficulty": "easy",
+    "question": "What makes a password strong?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Using your name and birthdate"
+      },
+      {
+        "id": "b",
+        "text": "Long, random combination of letters, numbers, and symbols"
+      },
+      {
+        "id": "c",
+        "text": "A single dictionary word"
+      },
+      {
+        "id": "d",
+        "text": "123456"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Strong passwords are long, random, and include various character types.",
+    "id": "q32"
+  },
+  {
+    "category": "network",
+    "difficulty": "easy",
+    "question": "What does the padlock icon in your browser mean?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The website is expensive"
+      },
+      {
+        "id": "b",
+        "text": "Your connection is encrypted"
+      },
+      {
+        "id": "c",
+        "text": "The website is slow"
+      },
+      {
+        "id": "d",
+        "text": "You need to pay"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The padlock indicates HTTPS encryption, protecting your data in transit.",
+    "id": "q33"
+  },
+  {
+    "category": "malware",
+    "difficulty": "easy",
+    "question": "What is a computer virus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A hardware component"
+      },
+      {
+        "id": "b",
+        "text": "Malicious software that replicates and spreads"
+      },
+      {
+        "id": "c",
+        "text": "A type of firewall"
+      },
+      {
+        "id": "d",
+        "text": "A network cable"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "A virus is malicious software that attaches to files and spreads to other systems.",
+    "id": "q34"
+  },
+  {
+    "category": "email-security",
+    "difficulty": "easy",
+    "question": "What is a suspicious sign in an email?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Proper grammar and spelling"
+      },
+      {
+        "id": "b",
+        "text": "Urgent language and spelling errors"
+      },
+      {
+        "id": "c",
+        "text": "From a known sender"
+      },
+      {
+        "id": "d",
+        "text": "No attachments"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Urgent language and spelling errors are common red flags in phishing emails.",
+    "id": "q35"
+  },
+  {
+    "category": "device-security",
+    "difficulty": "easy",
+    "question": "Why should you lock your phone?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To save battery"
+      },
+      {
+        "id": "b",
+        "text": "To prevent unauthorized access"
+      },
+      {
+        "id": "c",
+        "text": "To make it faster"
+      },
+      {
+        "id": "d",
+        "text": "It's not necessary"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Locking your device prevents others from accessing your personal information.",
+    "id": "q36"
+  },
+  {
+    "category": "backup",
+    "difficulty": "easy",
+    "question": "How often should you back up important files?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Never"
+      },
+      {
+        "id": "b",
+        "text": "Regularly, depending on how often files change"
+      },
+      {
+        "id": "c",
+        "text": "Once a year"
+      },
+      {
+        "id": "d",
+        "text": "Only when asked"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Regular backups ensure you can recover data if lost or corrupted.",
+    "id": "q37"
+  },
+  {
+    "category": "social-engineering",
+    "difficulty": "easy",
+    "question": "Someone calls claiming to be from Microsoft and says your computer has a virus. What should you do?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Give them remote access"
+      },
+      {
+        "id": "b",
+        "text": "Hang up - this is a scam"
+      },
+      {
+        "id": "c",
+        "text": "Provide your credit card"
+      },
+      {
+        "id": "d",
+        "text": "Share your passwords"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Legitimate tech support doesn't cold-call. This is a common scam.",
+    "id": "q38"
+  },
+  {
+    "category": "secure-config",
+    "difficulty": "easy",
+    "question": "Why should you install software updates?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They're annoying"
+      },
+      {
+        "id": "b",
+        "text": "They fix security vulnerabilities"
+      },
+      {
+        "id": "c",
+        "text": "They slow down your computer"
+      },
+      {
+        "id": "d",
+        "text": "They're unnecessary"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Updates patch security holes and fix bugs that attackers exploit.",
+    "id": "q39"
+  },
+  {
+    "category": "data-protection",
+    "difficulty": "easy",
+    "question": "What is personally identifiable information (PII)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Public information"
+      },
+      {
+        "id": "b",
+        "text": "Data that can identify a specific person"
+      },
+      {
+        "id": "c",
+        "text": "Random numbers"
+      },
+      {
+        "id": "d",
+        "text": "System files"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "PII includes names, SSNs, addresses, and other data that can identify individuals.",
+    "id": "q40"
+  },
+  {
+    "category": "phishing",
+    "difficulty": "easy",
+    "question": "What should you do if you receive an email asking for your password?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Reply with your password"
+      },
+      {
+        "id": "b",
+        "text": "Delete it and never share passwords via email"
+      },
+      {
+        "id": "c",
+        "text": "Forward it to friends"
+      },
+      {
+        "id": "d",
+        "text": "Click any links in the email"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Legitimate organizations never ask for passwords via email. Delete suspicious emails.",
+    "id": "q41"
+  },
+  {
+    "category": "passwords",
+    "difficulty": "easy",
+    "question": "What makes a password strong?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Using your name and birthdate"
+      },
+      {
+        "id": "b",
+        "text": "Long, random combination of letters, numbers, and symbols"
+      },
+      {
+        "id": "c",
+        "text": "A single dictionary word"
+      },
+      {
+        "id": "d",
+        "text": "123456"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Strong passwords are long, random, and include various character types.",
+    "id": "q42"
+  },
+  {
+    "category": "network",
+    "difficulty": "easy",
+    "question": "What does the padlock icon in your browser mean?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The website is expensive"
+      },
+      {
+        "id": "b",
+        "text": "Your connection is encrypted"
+      },
+      {
+        "id": "c",
+        "text": "The website is slow"
+      },
+      {
+        "id": "d",
+        "text": "You need to pay"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The padlock indicates HTTPS encryption, protecting your data in transit.",
+    "id": "q43"
+  },
+  {
+    "category": "malware",
+    "difficulty": "easy",
+    "question": "What is a computer virus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A hardware component"
+      },
+      {
+        "id": "b",
+        "text": "Malicious software that replicates and spreads"
+      },
+      {
+        "id": "c",
+        "text": "A type of firewall"
+      },
+      {
+        "id": "d",
+        "text": "A network cable"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "A virus is malicious software that attaches to files and spreads to other systems.",
+    "id": "q44"
+  },
+  {
+    "category": "email-security",
+    "difficulty": "easy",
+    "question": "What is a suspicious sign in an email?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Proper grammar and spelling"
+      },
+      {
+        "id": "b",
+        "text": "Urgent language and spelling errors"
+      },
+      {
+        "id": "c",
+        "text": "From a known sender"
+      },
+      {
+        "id": "d",
+        "text": "No attachments"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Urgent language and spelling errors are common red flags in phishing emails.",
+    "id": "q45"
+  },
+  {
+    "category": "device-security",
+    "difficulty": "easy",
+    "question": "Why should you lock your phone?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To save battery"
+      },
+      {
+        "id": "b",
+        "text": "To prevent unauthorized access"
+      },
+      {
+        "id": "c",
+        "text": "To make it faster"
+      },
+      {
+        "id": "d",
+        "text": "It's not necessary"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Locking your device prevents others from accessing your personal information.",
+    "id": "q46"
+  },
+  {
+    "category": "backup",
+    "difficulty": "easy",
+    "question": "How often should you back up important files?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Never"
+      },
+      {
+        "id": "b",
+        "text": "Regularly, depending on how often files change"
+      },
+      {
+        "id": "c",
+        "text": "Once a year"
+      },
+      {
+        "id": "d",
+        "text": "Only when asked"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Regular backups ensure you can recover data if lost or corrupted.",
+    "id": "q47"
+  },
+  {
+    "category": "social-engineering",
+    "difficulty": "easy",
+    "question": "Someone calls claiming to be from Microsoft and says your computer has a virus. What should you do?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Give them remote access"
+      },
+      {
+        "id": "b",
+        "text": "Hang up - this is a scam"
+      },
+      {
+        "id": "c",
+        "text": "Provide your credit card"
+      },
+      {
+        "id": "d",
+        "text": "Share your passwords"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Legitimate tech support doesn't cold-call. This is a common scam.",
+    "id": "q48"
+  },
+  {
+    "category": "secure-config",
+    "difficulty": "easy",
+    "question": "Why should you install software updates?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They're annoying"
+      },
+      {
+        "id": "b",
+        "text": "They fix security vulnerabilities"
+      },
+      {
+        "id": "c",
+        "text": "They slow down your computer"
+      },
+      {
+        "id": "d",
+        "text": "They're unnecessary"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Updates patch security holes and fix bugs that attackers exploit.",
+    "id": "q49"
+  },
+  {
+    "category": "data-protection",
+    "difficulty": "easy",
+    "question": "What is personally identifiable information (PII)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Public information"
+      },
+      {
+        "id": "b",
+        "text": "Data that can identify a specific person"
+      },
+      {
+        "id": "c",
+        "text": "Random numbers"
+      },
+      {
+        "id": "d",
+        "text": "System files"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "PII includes names, SSNs, addresses, and other data that can identify individuals.",
+    "id": "q50"
+  },
+  {
+    "category": "phishing",
+    "difficulty": "easy",
+    "question": "What should you do if you receive an email asking for your password?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Reply with your password"
+      },
+      {
+        "id": "b",
+        "text": "Delete it and never share passwords via email"
+      },
+      {
+        "id": "c",
+        "text": "Forward it to friends"
+      },
+      {
+        "id": "d",
+        "text": "Click any links in the email"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Legitimate organizations never ask for passwords via email. Delete suspicious emails.",
+    "id": "q51"
+  },
+  {
+    "category": "passwords",
+    "difficulty": "easy",
+    "question": "What makes a password strong?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Using your name and birthdate"
+      },
+      {
+        "id": "b",
+        "text": "Long, random combination of letters, numbers, and symbols"
+      },
+      {
+        "id": "c",
+        "text": "A single dictionary word"
+      },
+      {
+        "id": "d",
+        "text": "123456"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Strong passwords are long, random, and include various character types.",
+    "id": "q52"
+  },
+  {
+    "category": "network",
+    "difficulty": "easy",
+    "question": "What does the padlock icon in your browser mean?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The website is expensive"
+      },
+      {
+        "id": "b",
+        "text": "Your connection is encrypted"
+      },
+      {
+        "id": "c",
+        "text": "The website is slow"
+      },
+      {
+        "id": "d",
+        "text": "You need to pay"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The padlock indicates HTTPS encryption, protecting your data in transit.",
+    "id": "q53"
+  },
+  {
+    "category": "malware",
+    "difficulty": "easy",
+    "question": "What is a computer virus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A hardware component"
+      },
+      {
+        "id": "b",
+        "text": "Malicious software that replicates and spreads"
+      },
+      {
+        "id": "c",
+        "text": "A type of firewall"
+      },
+      {
+        "id": "d",
+        "text": "A network cable"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "A virus is malicious software that attaches to files and spreads to other systems.",
+    "id": "q54"
+  },
+  {
+    "category": "email-security",
+    "difficulty": "easy",
+    "question": "What is a suspicious sign in an email?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Proper grammar and spelling"
+      },
+      {
+        "id": "b",
+        "text": "Urgent language and spelling errors"
+      },
+      {
+        "id": "c",
+        "text": "From a known sender"
+      },
+      {
+        "id": "d",
+        "text": "No attachments"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Urgent language and spelling errors are common red flags in phishing emails.",
+    "id": "q55"
+  },
+  {
+    "category": "device-security",
+    "difficulty": "easy",
+    "question": "Why should you lock your phone?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To save battery"
+      },
+      {
+        "id": "b",
+        "text": "To prevent unauthorized access"
+      },
+      {
+        "id": "c",
+        "text": "To make it faster"
+      },
+      {
+        "id": "d",
+        "text": "It's not necessary"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Locking your device prevents others from accessing your personal information.",
+    "id": "q56"
+  },
+  {
+    "category": "backup",
+    "difficulty": "easy",
+    "question": "How often should you back up important files?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Never"
+      },
+      {
+        "id": "b",
+        "text": "Regularly, depending on how often files change"
+      },
+      {
+        "id": "c",
+        "text": "Once a year"
+      },
+      {
+        "id": "d",
+        "text": "Only when asked"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Regular backups ensure you can recover data if lost or corrupted.",
+    "id": "q57"
+  },
+  {
+    "category": "social-engineering",
+    "difficulty": "easy",
+    "question": "Someone calls claiming to be from Microsoft and says your computer has a virus. What should you do?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Give them remote access"
+      },
+      {
+        "id": "b",
+        "text": "Hang up - this is a scam"
+      },
+      {
+        "id": "c",
+        "text": "Provide your credit card"
+      },
+      {
+        "id": "d",
+        "text": "Share your passwords"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Legitimate tech support doesn't cold-call. This is a common scam.",
+    "id": "q58"
+  },
+  {
+    "category": "secure-config",
+    "difficulty": "easy",
+    "question": "Why should you install software updates?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They're annoying"
+      },
+      {
+        "id": "b",
+        "text": "They fix security vulnerabilities"
+      },
+      {
+        "id": "c",
+        "text": "They slow down your computer"
+      },
+      {
+        "id": "d",
+        "text": "They're unnecessary"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Updates patch security holes and fix bugs that attackers exploit.",
+    "id": "q59"
+  },
+  {
+    "category": "data-protection",
+    "difficulty": "easy",
+    "question": "What is personally identifiable information (PII)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Public information"
+      },
+      {
+        "id": "b",
+        "text": "Data that can identify a specific person"
+      },
+      {
+        "id": "c",
+        "text": "Random numbers"
+      },
+      {
+        "id": "d",
+        "text": "System files"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "PII includes names, SSNs, addresses, and other data that can identify individuals.",
+    "id": "q60"
+  },
+  {
+    "category": "phishing",
+    "difficulty": "easy",
+    "question": "What should you do if you receive an email asking for your password?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Reply with your password"
+      },
+      {
+        "id": "b",
+        "text": "Delete it and never share passwords via email"
+      },
+      {
+        "id": "c",
+        "text": "Forward it to friends"
+      },
+      {
+        "id": "d",
+        "text": "Click any links in the email"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Legitimate organizations never ask for passwords via email. Delete suspicious emails.",
+    "id": "q61"
+  },
+  {
+    "category": "passwords",
+    "difficulty": "easy",
+    "question": "What makes a password strong?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Using your name and birthdate"
+      },
+      {
+        "id": "b",
+        "text": "Long, random combination of letters, numbers, and symbols"
+      },
+      {
+        "id": "c",
+        "text": "A single dictionary word"
+      },
+      {
+        "id": "d",
+        "text": "123456"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Strong passwords are long, random, and include various character types.",
+    "id": "q62"
+  },
+  {
+    "category": "network",
+    "difficulty": "easy",
+    "question": "What does the padlock icon in your browser mean?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The website is expensive"
+      },
+      {
+        "id": "b",
+        "text": "Your connection is encrypted"
+      },
+      {
+        "id": "c",
+        "text": "The website is slow"
+      },
+      {
+        "id": "d",
+        "text": "You need to pay"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The padlock indicates HTTPS encryption, protecting your data in transit.",
+    "id": "q63"
+  },
+  {
+    "category": "malware",
+    "difficulty": "easy",
+    "question": "What is a computer virus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A hardware component"
+      },
+      {
+        "id": "b",
+        "text": "Malicious software that replicates and spreads"
+      },
+      {
+        "id": "c",
+        "text": "A type of firewall"
+      },
+      {
+        "id": "d",
+        "text": "A network cable"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "A virus is malicious software that attaches to files and spreads to other systems.",
+    "id": "q64"
+  },
+  {
+    "category": "email-security",
+    "difficulty": "easy",
+    "question": "What is a suspicious sign in an email?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Proper grammar and spelling"
+      },
+      {
+        "id": "b",
+        "text": "Urgent language and spelling errors"
+      },
+      {
+        "id": "c",
+        "text": "From a known sender"
+      },
+      {
+        "id": "d",
+        "text": "No attachments"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Urgent language and spelling errors are common red flags in phishing emails.",
+    "id": "q65"
+  },
+  {
+    "category": "device-security",
+    "difficulty": "easy",
+    "question": "Why should you lock your phone?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To save battery"
+      },
+      {
+        "id": "b",
+        "text": "To prevent unauthorized access"
+      },
+      {
+        "id": "c",
+        "text": "To make it faster"
+      },
+      {
+        "id": "d",
+        "text": "It's not necessary"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Locking your device prevents others from accessing your personal information.",
+    "id": "q66"
+  },
+  {
+    "category": "backup",
+    "difficulty": "easy",
+    "question": "How often should you back up important files?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Never"
+      },
+      {
+        "id": "b",
+        "text": "Regularly, depending on how often files change"
+      },
+      {
+        "id": "c",
+        "text": "Once a year"
+      },
+      {
+        "id": "d",
+        "text": "Only when asked"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Regular backups ensure you can recover data if lost or corrupted.",
+    "id": "q67"
+  },
+  {
+    "category": "social-engineering",
+    "difficulty": "easy",
+    "question": "Someone calls claiming to be from Microsoft and says your computer has a virus. What should you do?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Give them remote access"
+      },
+      {
+        "id": "b",
+        "text": "Hang up - this is a scam"
+      },
+      {
+        "id": "c",
+        "text": "Provide your credit card"
+      },
+      {
+        "id": "d",
+        "text": "Share your passwords"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Legitimate tech support doesn't cold-call. This is a common scam.",
+    "id": "q68"
+  },
+  {
+    "category": "secure-config",
+    "difficulty": "easy",
+    "question": "Why should you install software updates?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They're annoying"
+      },
+      {
+        "id": "b",
+        "text": "They fix security vulnerabilities"
+      },
+      {
+        "id": "c",
+        "text": "They slow down your computer"
+      },
+      {
+        "id": "d",
+        "text": "They're unnecessary"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Updates patch security holes and fix bugs that attackers exploit.",
+    "id": "q69"
+  },
+  {
+    "category": "data-protection",
+    "difficulty": "easy",
+    "question": "What is personally identifiable information (PII)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Public information"
+      },
+      {
+        "id": "b",
+        "text": "Data that can identify a specific person"
+      },
+      {
+        "id": "c",
+        "text": "Random numbers"
+      },
+      {
+        "id": "d",
+        "text": "System files"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "PII includes names, SSNs, addresses, and other data that can identify individuals.",
+    "id": "q70"
+  },
+  {
+    "category": "phishing",
+    "difficulty": "easy",
+    "question": "What should you do if you receive an email asking for your password?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Reply with your password"
+      },
+      {
+        "id": "b",
+        "text": "Delete it and never share passwords via email"
+      },
+      {
+        "id": "c",
+        "text": "Forward it to friends"
+      },
+      {
+        "id": "d",
+        "text": "Click any links in the email"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Legitimate organizations never ask for passwords via email. Delete suspicious emails.",
+    "id": "q71"
+  },
+  {
+    "category": "passwords",
+    "difficulty": "easy",
+    "question": "What makes a password strong?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Using your name and birthdate"
+      },
+      {
+        "id": "b",
+        "text": "Long, random combination of letters, numbers, and symbols"
+      },
+      {
+        "id": "c",
+        "text": "A single dictionary word"
+      },
+      {
+        "id": "d",
+        "text": "123456"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Strong passwords are long, random, and include various character types.",
+    "id": "q72"
+  },
+  {
+    "category": "network",
+    "difficulty": "easy",
+    "question": "What does the padlock icon in your browser mean?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The website is expensive"
+      },
+      {
+        "id": "b",
+        "text": "Your connection is encrypted"
+      },
+      {
+        "id": "c",
+        "text": "The website is slow"
+      },
+      {
+        "id": "d",
+        "text": "You need to pay"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The padlock indicates HTTPS encryption, protecting your data in transit.",
+    "id": "q73"
+  },
+  {
+    "category": "malware",
+    "difficulty": "easy",
+    "question": "What is a computer virus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A hardware component"
+      },
+      {
+        "id": "b",
+        "text": "Malicious software that replicates and spreads"
+      },
+      {
+        "id": "c",
+        "text": "A type of firewall"
+      },
+      {
+        "id": "d",
+        "text": "A network cable"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "A virus is malicious software that attaches to files and spreads to other systems.",
+    "id": "q74"
+  },
+  {
+    "category": "email-security",
+    "difficulty": "easy",
+    "question": "What is a suspicious sign in an email?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Proper grammar and spelling"
+      },
+      {
+        "id": "b",
+        "text": "Urgent language and spelling errors"
+      },
+      {
+        "id": "c",
+        "text": "From a known sender"
+      },
+      {
+        "id": "d",
+        "text": "No attachments"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Urgent language and spelling errors are common red flags in phishing emails.",
+    "id": "q75"
+  },
+  {
+    "category": "device-security",
+    "difficulty": "easy",
+    "question": "Why should you lock your phone?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To save battery"
+      },
+      {
+        "id": "b",
+        "text": "To prevent unauthorized access"
+      },
+      {
+        "id": "c",
+        "text": "To make it faster"
+      },
+      {
+        "id": "d",
+        "text": "It's not necessary"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Locking your device prevents others from accessing your personal information.",
+    "id": "q76"
+  },
+  {
+    "category": "backup",
+    "difficulty": "easy",
+    "question": "How often should you back up important files?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Never"
+      },
+      {
+        "id": "b",
+        "text": "Regularly, depending on how often files change"
+      },
+      {
+        "id": "c",
+        "text": "Once a year"
+      },
+      {
+        "id": "d",
+        "text": "Only when asked"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Regular backups ensure you can recover data if lost or corrupted.",
+    "id": "q77"
+  },
+  {
+    "category": "social-engineering",
+    "difficulty": "easy",
+    "question": "Someone calls claiming to be from Microsoft and says your computer has a virus. What should you do?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Give them remote access"
+      },
+      {
+        "id": "b",
+        "text": "Hang up - this is a scam"
+      },
+      {
+        "id": "c",
+        "text": "Provide your credit card"
+      },
+      {
+        "id": "d",
+        "text": "Share your passwords"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Legitimate tech support doesn't cold-call. This is a common scam.",
+    "id": "q78"
+  },
+  {
+    "category": "secure-config",
+    "difficulty": "easy",
+    "question": "Why should you install software updates?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They're annoying"
+      },
+      {
+        "id": "b",
+        "text": "They fix security vulnerabilities"
+      },
+      {
+        "id": "c",
+        "text": "They slow down your computer"
+      },
+      {
+        "id": "d",
+        "text": "They're unnecessary"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Updates patch security holes and fix bugs that attackers exploit.",
+    "id": "q79"
+  },
+  {
+    "category": "data-protection",
+    "difficulty": "easy",
+    "question": "What is personally identifiable information (PII)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Public information"
+      },
+      {
+        "id": "b",
+        "text": "Data that can identify a specific person"
+      },
+      {
+        "id": "c",
+        "text": "Random numbers"
+      },
+      {
+        "id": "d",
+        "text": "System files"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "PII includes names, SSNs, addresses, and other data that can identify individuals.",
+    "id": "q80"
+  },
+  {
+    "category": "phishing",
+    "difficulty": "easy",
+    "question": "What should you do if you receive an email asking for your password?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Reply with your password"
+      },
+      {
+        "id": "b",
+        "text": "Delete it and never share passwords via email"
+      },
+      {
+        "id": "c",
+        "text": "Forward it to friends"
+      },
+      {
+        "id": "d",
+        "text": "Click any links in the email"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Legitimate organizations never ask for passwords via email. Delete suspicious emails.",
+    "id": "q81"
+  },
+  {
+    "category": "passwords",
+    "difficulty": "easy",
+    "question": "What makes a password strong?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Using your name and birthdate"
+      },
+      {
+        "id": "b",
+        "text": "Long, random combination of letters, numbers, and symbols"
+      },
+      {
+        "id": "c",
+        "text": "A single dictionary word"
+      },
+      {
+        "id": "d",
+        "text": "123456"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Strong passwords are long, random, and include various character types.",
+    "id": "q82"
+  },
+  {
+    "category": "network",
+    "difficulty": "easy",
+    "question": "What does the padlock icon in your browser mean?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The website is expensive"
+      },
+      {
+        "id": "b",
+        "text": "Your connection is encrypted"
+      },
+      {
+        "id": "c",
+        "text": "The website is slow"
+      },
+      {
+        "id": "d",
+        "text": "You need to pay"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The padlock indicates HTTPS encryption, protecting your data in transit.",
+    "id": "q83"
+  },
+  {
+    "category": "malware",
+    "difficulty": "easy",
+    "question": "What is a computer virus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A hardware component"
+      },
+      {
+        "id": "b",
+        "text": "Malicious software that replicates and spreads"
+      },
+      {
+        "id": "c",
+        "text": "A type of firewall"
+      },
+      {
+        "id": "d",
+        "text": "A network cable"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "A virus is malicious software that attaches to files and spreads to other systems.",
+    "id": "q84"
+  },
+  {
+    "category": "email-security",
+    "difficulty": "easy",
+    "question": "What is a suspicious sign in an email?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Proper grammar and spelling"
+      },
+      {
+        "id": "b",
+        "text": "Urgent language and spelling errors"
+      },
+      {
+        "id": "c",
+        "text": "From a known sender"
+      },
+      {
+        "id": "d",
+        "text": "No attachments"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Urgent language and spelling errors are common red flags in phishing emails.",
+    "id": "q85"
+  },
+  {
+    "category": "device-security",
+    "difficulty": "easy",
+    "question": "Why should you lock your phone?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To save battery"
+      },
+      {
+        "id": "b",
+        "text": "To prevent unauthorized access"
+      },
+      {
+        "id": "c",
+        "text": "To make it faster"
+      },
+      {
+        "id": "d",
+        "text": "It's not necessary"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Locking your device prevents others from accessing your personal information.",
+    "id": "q86"
+  },
+  {
+    "category": "backup",
+    "difficulty": "easy",
+    "question": "How often should you back up important files?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Never"
+      },
+      {
+        "id": "b",
+        "text": "Regularly, depending on how often files change"
+      },
+      {
+        "id": "c",
+        "text": "Once a year"
+      },
+      {
+        "id": "d",
+        "text": "Only when asked"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Regular backups ensure you can recover data if lost or corrupted.",
+    "id": "q87"
+  },
+  {
+    "category": "social-engineering",
+    "difficulty": "easy",
+    "question": "Someone calls claiming to be from Microsoft and says your computer has a virus. What should you do?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Give them remote access"
+      },
+      {
+        "id": "b",
+        "text": "Hang up - this is a scam"
+      },
+      {
+        "id": "c",
+        "text": "Provide your credit card"
+      },
+      {
+        "id": "d",
+        "text": "Share your passwords"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Legitimate tech support doesn't cold-call. This is a common scam.",
+    "id": "q88"
+  },
+  {
+    "category": "secure-config",
+    "difficulty": "easy",
+    "question": "Why should you install software updates?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They're annoying"
+      },
+      {
+        "id": "b",
+        "text": "They fix security vulnerabilities"
+      },
+      {
+        "id": "c",
+        "text": "They slow down your computer"
+      },
+      {
+        "id": "d",
+        "text": "They're unnecessary"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Updates patch security holes and fix bugs that attackers exploit.",
+    "id": "q89"
+  },
+  {
+    "category": "data-protection",
+    "difficulty": "easy",
+    "question": "What is personally identifiable information (PII)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Public information"
+      },
+      {
+        "id": "b",
+        "text": "Data that can identify a specific person"
+      },
+      {
+        "id": "c",
+        "text": "Random numbers"
+      },
+      {
+        "id": "d",
+        "text": "System files"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "PII includes names, SSNs, addresses, and other data that can identify individuals.",
+    "id": "q90"
+  },
+  {
+    "category": "phishing",
+    "difficulty": "easy",
+    "question": "What should you do if you receive an email asking for your password?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Reply with your password"
+      },
+      {
+        "id": "b",
+        "text": "Delete it and never share passwords via email"
+      },
+      {
+        "id": "c",
+        "text": "Forward it to friends"
+      },
+      {
+        "id": "d",
+        "text": "Click any links in the email"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Legitimate organizations never ask for passwords via email. Delete suspicious emails.",
+    "id": "q91"
+  },
+  {
+    "category": "passwords",
+    "difficulty": "easy",
+    "question": "What makes a password strong?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Using your name and birthdate"
+      },
+      {
+        "id": "b",
+        "text": "Long, random combination of letters, numbers, and symbols"
+      },
+      {
+        "id": "c",
+        "text": "A single dictionary word"
+      },
+      {
+        "id": "d",
+        "text": "123456"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Strong passwords are long, random, and include various character types.",
+    "id": "q92"
+  },
+  {
+    "category": "network",
+    "difficulty": "easy",
+    "question": "What does the padlock icon in your browser mean?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The website is expensive"
+      },
+      {
+        "id": "b",
+        "text": "Your connection is encrypted"
+      },
+      {
+        "id": "c",
+        "text": "The website is slow"
+      },
+      {
+        "id": "d",
+        "text": "You need to pay"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The padlock indicates HTTPS encryption, protecting your data in transit.",
+    "id": "q93"
+  },
+  {
+    "category": "malware",
+    "difficulty": "easy",
+    "question": "What is a computer virus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A hardware component"
+      },
+      {
+        "id": "b",
+        "text": "Malicious software that replicates and spreads"
+      },
+      {
+        "id": "c",
+        "text": "A type of firewall"
+      },
+      {
+        "id": "d",
+        "text": "A network cable"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "A virus is malicious software that attaches to files and spreads to other systems.",
+    "id": "q94"
+  },
+  {
+    "category": "email-security",
+    "difficulty": "easy",
+    "question": "What is a suspicious sign in an email?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Proper grammar and spelling"
+      },
+      {
+        "id": "b",
+        "text": "Urgent language and spelling errors"
+      },
+      {
+        "id": "c",
+        "text": "From a known sender"
+      },
+      {
+        "id": "d",
+        "text": "No attachments"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Urgent language and spelling errors are common red flags in phishing emails.",
+    "id": "q95"
+  },
+  {
+    "category": "device-security",
+    "difficulty": "easy",
+    "question": "Why should you lock your phone?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To save battery"
+      },
+      {
+        "id": "b",
+        "text": "To prevent unauthorized access"
+      },
+      {
+        "id": "c",
+        "text": "To make it faster"
+      },
+      {
+        "id": "d",
+        "text": "It's not necessary"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Locking your device prevents others from accessing your personal information.",
+    "id": "q96"
+  },
+  {
+    "category": "backup",
+    "difficulty": "easy",
+    "question": "How often should you back up important files?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Never"
+      },
+      {
+        "id": "b",
+        "text": "Regularly, depending on how often files change"
+      },
+      {
+        "id": "c",
+        "text": "Once a year"
+      },
+      {
+        "id": "d",
+        "text": "Only when asked"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Regular backups ensure you can recover data if lost or corrupted.",
+    "id": "q97"
+  },
+  {
+    "category": "social-engineering",
+    "difficulty": "easy",
+    "question": "Someone calls claiming to be from Microsoft and says your computer has a virus. What should you do?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Give them remote access"
+      },
+      {
+        "id": "b",
+        "text": "Hang up - this is a scam"
+      },
+      {
+        "id": "c",
+        "text": "Provide your credit card"
+      },
+      {
+        "id": "d",
+        "text": "Share your passwords"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Legitimate tech support doesn't cold-call. This is a common scam.",
+    "id": "q98"
+  },
+  {
+    "category": "secure-config",
+    "difficulty": "easy",
+    "question": "Why should you install software updates?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They're annoying"
+      },
+      {
+        "id": "b",
+        "text": "They fix security vulnerabilities"
+      },
+      {
+        "id": "c",
+        "text": "They slow down your computer"
+      },
+      {
+        "id": "d",
+        "text": "They're unnecessary"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Updates patch security holes and fix bugs that attackers exploit.",
+    "id": "q99"
+  },
+  {
+    "category": "data-protection",
+    "difficulty": "easy",
+    "question": "What is personally identifiable information (PII)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Public information"
+      },
+      {
+        "id": "b",
+        "text": "Data that can identify a specific person"
+      },
+      {
+        "id": "c",
+        "text": "Random numbers"
+      },
+      {
+        "id": "d",
+        "text": "System files"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "PII includes names, SSNs, addresses, and other data that can identify individuals.",
+    "id": "q100"
+  },
+  {
+    "category": "phishing",
+    "difficulty": "easy",
+    "question": "What should you do if you receive an email asking for your password?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Reply with your password"
+      },
+      {
+        "id": "b",
+        "text": "Delete it and never share passwords via email"
+      },
+      {
+        "id": "c",
+        "text": "Forward it to friends"
+      },
+      {
+        "id": "d",
+        "text": "Click any links in the email"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Legitimate organizations never ask for passwords via email. Delete suspicious emails.",
+    "id": "q101"
+  },
+  {
+    "category": "passwords",
+    "difficulty": "easy",
+    "question": "What makes a password strong?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Using your name and birthdate"
+      },
+      {
+        "id": "b",
+        "text": "Long, random combination of letters, numbers, and symbols"
+      },
+      {
+        "id": "c",
+        "text": "A single dictionary word"
+      },
+      {
+        "id": "d",
+        "text": "123456"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Strong passwords are long, random, and include various character types.",
+    "id": "q102"
+  },
+  {
+    "category": "network",
+    "difficulty": "easy",
+    "question": "What does the padlock icon in your browser mean?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The website is expensive"
+      },
+      {
+        "id": "b",
+        "text": "Your connection is encrypted"
+      },
+      {
+        "id": "c",
+        "text": "The website is slow"
+      },
+      {
+        "id": "d",
+        "text": "You need to pay"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The padlock indicates HTTPS encryption, protecting your data in transit.",
+    "id": "q103"
+  },
+  {
+    "category": "malware",
+    "difficulty": "easy",
+    "question": "What is a computer virus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A hardware component"
+      },
+      {
+        "id": "b",
+        "text": "Malicious software that replicates and spreads"
+      },
+      {
+        "id": "c",
+        "text": "A type of firewall"
+      },
+      {
+        "id": "d",
+        "text": "A network cable"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "A virus is malicious software that attaches to files and spreads to other systems.",
+    "id": "q104"
+  },
+  {
+    "category": "email-security",
+    "difficulty": "easy",
+    "question": "What is a suspicious sign in an email?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Proper grammar and spelling"
+      },
+      {
+        "id": "b",
+        "text": "Urgent language and spelling errors"
+      },
+      {
+        "id": "c",
+        "text": "From a known sender"
+      },
+      {
+        "id": "d",
+        "text": "No attachments"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Urgent language and spelling errors are common red flags in phishing emails.",
+    "id": "q105"
+  },
+  {
+    "category": "device-security",
+    "difficulty": "easy",
+    "question": "Why should you lock your phone?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To save battery"
+      },
+      {
+        "id": "b",
+        "text": "To prevent unauthorized access"
+      },
+      {
+        "id": "c",
+        "text": "To make it faster"
+      },
+      {
+        "id": "d",
+        "text": "It's not necessary"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Locking your device prevents others from accessing your personal information.",
+    "id": "q106"
+  },
+  {
+    "category": "backup",
+    "difficulty": "easy",
+    "question": "How often should you back up important files?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Never"
+      },
+      {
+        "id": "b",
+        "text": "Regularly, depending on how often files change"
+      },
+      {
+        "id": "c",
+        "text": "Once a year"
+      },
+      {
+        "id": "d",
+        "text": "Only when asked"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Regular backups ensure you can recover data if lost or corrupted.",
+    "id": "q107"
+  },
+  {
+    "category": "social-engineering",
+    "difficulty": "easy",
+    "question": "Someone calls claiming to be from Microsoft and says your computer has a virus. What should you do?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Give them remote access"
+      },
+      {
+        "id": "b",
+        "text": "Hang up - this is a scam"
+      },
+      {
+        "id": "c",
+        "text": "Provide your credit card"
+      },
+      {
+        "id": "d",
+        "text": "Share your passwords"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Legitimate tech support doesn't cold-call. This is a common scam.",
+    "id": "q108"
+  },
+  {
+    "category": "secure-config",
+    "difficulty": "easy",
+    "question": "Why should you install software updates?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They're annoying"
+      },
+      {
+        "id": "b",
+        "text": "They fix security vulnerabilities"
+      },
+      {
+        "id": "c",
+        "text": "They slow down your computer"
+      },
+      {
+        "id": "d",
+        "text": "They're unnecessary"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Updates patch security holes and fix bugs that attackers exploit.",
+    "id": "q109"
+  },
+  {
+    "category": "data-protection",
+    "difficulty": "easy",
+    "question": "What is personally identifiable information (PII)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Public information"
+      },
+      {
+        "id": "b",
+        "text": "Data that can identify a specific person"
+      },
+      {
+        "id": "c",
+        "text": "Random numbers"
+      },
+      {
+        "id": "d",
+        "text": "System files"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "PII includes names, SSNs, addresses, and other data that can identify individuals.",
+    "id": "q110"
+  },
+  {
+    "category": "phishing",
+    "difficulty": "easy",
+    "question": "What should you do if you receive an email asking for your password?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Reply with your password"
+      },
+      {
+        "id": "b",
+        "text": "Delete it and never share passwords via email"
+      },
+      {
+        "id": "c",
+        "text": "Forward it to friends"
+      },
+      {
+        "id": "d",
+        "text": "Click any links in the email"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Legitimate organizations never ask for passwords via email. Delete suspicious emails.",
+    "id": "q111"
+  },
+  {
+    "category": "passwords",
+    "difficulty": "easy",
+    "question": "What makes a password strong?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Using your name and birthdate"
+      },
+      {
+        "id": "b",
+        "text": "Long, random combination of letters, numbers, and symbols"
+      },
+      {
+        "id": "c",
+        "text": "A single dictionary word"
+      },
+      {
+        "id": "d",
+        "text": "123456"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Strong passwords are long, random, and include various character types.",
+    "id": "q112"
+  },
+  {
+    "category": "network",
+    "difficulty": "easy",
+    "question": "What does the padlock icon in your browser mean?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The website is expensive"
+      },
+      {
+        "id": "b",
+        "text": "Your connection is encrypted"
+      },
+      {
+        "id": "c",
+        "text": "The website is slow"
+      },
+      {
+        "id": "d",
+        "text": "You need to pay"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The padlock indicates HTTPS encryption, protecting your data in transit.",
+    "id": "q113"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "medium",
+    "question": "What is the difference between encryption and hashing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They are the same"
+      },
+      {
+        "id": "b",
+        "text": "Encryption is reversible, hashing is one-way"
+      },
+      {
+        "id": "c",
+        "text": "Hashing is reversible, encryption is one-way"
+      },
+      {
+        "id": "d",
+        "text": "Neither can be reversed"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Encryption can be decrypted, while hashing produces a one-way digest.",
+    "id": "q114"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "medium",
+    "question": "What is Cross-Site Scripting (XSS)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "Injecting malicious scripts into web pages"
+      },
+      {
+        "id": "c",
+        "text": "A network protocol"
+      },
+      {
+        "id": "d",
+        "text": "A password attack"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "XSS attacks inject malicious JavaScript into web pages viewed by other users.",
+    "id": "q115"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "medium",
+    "question": "What is a CVE identifier?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of malware"
+      },
+      {
+        "id": "b",
+        "text": "Common Vulnerabilities and Exposures identifier"
+      },
+      {
+        "id": "c",
+        "text": "A password"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "CVE provides standardized identifiers for publicly known vulnerabilities.",
+    "id": "q116"
+  },
+  {
+    "category": "access-control",
+    "difficulty": "medium",
+    "question": "What is Role-Based Access Control (RBAC)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Giving everyone admin access"
+      },
+      {
+        "id": "b",
+        "text": "Assigning permissions based on job roles"
+      },
+      {
+        "id": "c",
+        "text": "No access control"
+      },
+      {
+        "id": "d",
+        "text": "Random access assignment"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "RBAC assigns permissions based on roles, enforcing least privilege.",
+    "id": "q117"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "medium",
+    "question": "What is a SIEM system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of firewall"
+      },
+      {
+        "id": "b",
+        "text": "Security Information and Event Management"
+      },
+      {
+        "id": "c",
+        "text": "A password manager"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "SIEM collects and analyzes security events from multiple sources.",
+    "id": "q118"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "medium",
+    "question": "What is the difference between encryption and hashing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They are the same"
+      },
+      {
+        "id": "b",
+        "text": "Encryption is reversible, hashing is one-way"
+      },
+      {
+        "id": "c",
+        "text": "Hashing is reversible, encryption is one-way"
+      },
+      {
+        "id": "d",
+        "text": "Neither can be reversed"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Encryption can be decrypted, while hashing produces a one-way digest.",
+    "id": "q119"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "medium",
+    "question": "What is Cross-Site Scripting (XSS)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "Injecting malicious scripts into web pages"
+      },
+      {
+        "id": "c",
+        "text": "A network protocol"
+      },
+      {
+        "id": "d",
+        "text": "A password attack"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "XSS attacks inject malicious JavaScript into web pages viewed by other users.",
+    "id": "q120"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "medium",
+    "question": "What is a CVE identifier?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of malware"
+      },
+      {
+        "id": "b",
+        "text": "Common Vulnerabilities and Exposures identifier"
+      },
+      {
+        "id": "c",
+        "text": "A password"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "CVE provides standardized identifiers for publicly known vulnerabilities.",
+    "id": "q121"
+  },
+  {
+    "category": "access-control",
+    "difficulty": "medium",
+    "question": "What is Role-Based Access Control (RBAC)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Giving everyone admin access"
+      },
+      {
+        "id": "b",
+        "text": "Assigning permissions based on job roles"
+      },
+      {
+        "id": "c",
+        "text": "No access control"
+      },
+      {
+        "id": "d",
+        "text": "Random access assignment"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "RBAC assigns permissions based on roles, enforcing least privilege.",
+    "id": "q122"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "medium",
+    "question": "What is a SIEM system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of firewall"
+      },
+      {
+        "id": "b",
+        "text": "Security Information and Event Management"
+      },
+      {
+        "id": "c",
+        "text": "A password manager"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "SIEM collects and analyzes security events from multiple sources.",
+    "id": "q123"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "medium",
+    "question": "What is the difference between encryption and hashing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They are the same"
+      },
+      {
+        "id": "b",
+        "text": "Encryption is reversible, hashing is one-way"
+      },
+      {
+        "id": "c",
+        "text": "Hashing is reversible, encryption is one-way"
+      },
+      {
+        "id": "d",
+        "text": "Neither can be reversed"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Encryption can be decrypted, while hashing produces a one-way digest.",
+    "id": "q124"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "medium",
+    "question": "What is Cross-Site Scripting (XSS)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "Injecting malicious scripts into web pages"
+      },
+      {
+        "id": "c",
+        "text": "A network protocol"
+      },
+      {
+        "id": "d",
+        "text": "A password attack"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "XSS attacks inject malicious JavaScript into web pages viewed by other users.",
+    "id": "q125"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "medium",
+    "question": "What is a CVE identifier?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of malware"
+      },
+      {
+        "id": "b",
+        "text": "Common Vulnerabilities and Exposures identifier"
+      },
+      {
+        "id": "c",
+        "text": "A password"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "CVE provides standardized identifiers for publicly known vulnerabilities.",
+    "id": "q126"
+  },
+  {
+    "category": "access-control",
+    "difficulty": "medium",
+    "question": "What is Role-Based Access Control (RBAC)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Giving everyone admin access"
+      },
+      {
+        "id": "b",
+        "text": "Assigning permissions based on job roles"
+      },
+      {
+        "id": "c",
+        "text": "No access control"
+      },
+      {
+        "id": "d",
+        "text": "Random access assignment"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "RBAC assigns permissions based on roles, enforcing least privilege.",
+    "id": "q127"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "medium",
+    "question": "What is a SIEM system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of firewall"
+      },
+      {
+        "id": "b",
+        "text": "Security Information and Event Management"
+      },
+      {
+        "id": "c",
+        "text": "A password manager"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "SIEM collects and analyzes security events from multiple sources.",
+    "id": "q128"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "medium",
+    "question": "What is the difference between encryption and hashing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They are the same"
+      },
+      {
+        "id": "b",
+        "text": "Encryption is reversible, hashing is one-way"
+      },
+      {
+        "id": "c",
+        "text": "Hashing is reversible, encryption is one-way"
+      },
+      {
+        "id": "d",
+        "text": "Neither can be reversed"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Encryption can be decrypted, while hashing produces a one-way digest.",
+    "id": "q129"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "medium",
+    "question": "What is Cross-Site Scripting (XSS)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "Injecting malicious scripts into web pages"
+      },
+      {
+        "id": "c",
+        "text": "A network protocol"
+      },
+      {
+        "id": "d",
+        "text": "A password attack"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "XSS attacks inject malicious JavaScript into web pages viewed by other users.",
+    "id": "q130"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "medium",
+    "question": "What is a CVE identifier?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of malware"
+      },
+      {
+        "id": "b",
+        "text": "Common Vulnerabilities and Exposures identifier"
+      },
+      {
+        "id": "c",
+        "text": "A password"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "CVE provides standardized identifiers for publicly known vulnerabilities.",
+    "id": "q131"
+  },
+  {
+    "category": "access-control",
+    "difficulty": "medium",
+    "question": "What is Role-Based Access Control (RBAC)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Giving everyone admin access"
+      },
+      {
+        "id": "b",
+        "text": "Assigning permissions based on job roles"
+      },
+      {
+        "id": "c",
+        "text": "No access control"
+      },
+      {
+        "id": "d",
+        "text": "Random access assignment"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "RBAC assigns permissions based on roles, enforcing least privilege.",
+    "id": "q132"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "medium",
+    "question": "What is a SIEM system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of firewall"
+      },
+      {
+        "id": "b",
+        "text": "Security Information and Event Management"
+      },
+      {
+        "id": "c",
+        "text": "A password manager"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "SIEM collects and analyzes security events from multiple sources.",
+    "id": "q133"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "medium",
+    "question": "What is the difference between encryption and hashing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They are the same"
+      },
+      {
+        "id": "b",
+        "text": "Encryption is reversible, hashing is one-way"
+      },
+      {
+        "id": "c",
+        "text": "Hashing is reversible, encryption is one-way"
+      },
+      {
+        "id": "d",
+        "text": "Neither can be reversed"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Encryption can be decrypted, while hashing produces a one-way digest.",
+    "id": "q134"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "medium",
+    "question": "What is Cross-Site Scripting (XSS)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "Injecting malicious scripts into web pages"
+      },
+      {
+        "id": "c",
+        "text": "A network protocol"
+      },
+      {
+        "id": "d",
+        "text": "A password attack"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "XSS attacks inject malicious JavaScript into web pages viewed by other users.",
+    "id": "q135"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "medium",
+    "question": "What is a CVE identifier?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of malware"
+      },
+      {
+        "id": "b",
+        "text": "Common Vulnerabilities and Exposures identifier"
+      },
+      {
+        "id": "c",
+        "text": "A password"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "CVE provides standardized identifiers for publicly known vulnerabilities.",
+    "id": "q136"
+  },
+  {
+    "category": "access-control",
+    "difficulty": "medium",
+    "question": "What is Role-Based Access Control (RBAC)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Giving everyone admin access"
+      },
+      {
+        "id": "b",
+        "text": "Assigning permissions based on job roles"
+      },
+      {
+        "id": "c",
+        "text": "No access control"
+      },
+      {
+        "id": "d",
+        "text": "Random access assignment"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "RBAC assigns permissions based on roles, enforcing least privilege.",
+    "id": "q137"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "medium",
+    "question": "What is a SIEM system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of firewall"
+      },
+      {
+        "id": "b",
+        "text": "Security Information and Event Management"
+      },
+      {
+        "id": "c",
+        "text": "A password manager"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "SIEM collects and analyzes security events from multiple sources.",
+    "id": "q138"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "medium",
+    "question": "What is the difference between encryption and hashing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They are the same"
+      },
+      {
+        "id": "b",
+        "text": "Encryption is reversible, hashing is one-way"
+      },
+      {
+        "id": "c",
+        "text": "Hashing is reversible, encryption is one-way"
+      },
+      {
+        "id": "d",
+        "text": "Neither can be reversed"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Encryption can be decrypted, while hashing produces a one-way digest.",
+    "id": "q139"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "medium",
+    "question": "What is Cross-Site Scripting (XSS)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "Injecting malicious scripts into web pages"
+      },
+      {
+        "id": "c",
+        "text": "A network protocol"
+      },
+      {
+        "id": "d",
+        "text": "A password attack"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "XSS attacks inject malicious JavaScript into web pages viewed by other users.",
+    "id": "q140"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "medium",
+    "question": "What is a CVE identifier?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of malware"
+      },
+      {
+        "id": "b",
+        "text": "Common Vulnerabilities and Exposures identifier"
+      },
+      {
+        "id": "c",
+        "text": "A password"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "CVE provides standardized identifiers for publicly known vulnerabilities.",
+    "id": "q141"
+  },
+  {
+    "category": "access-control",
+    "difficulty": "medium",
+    "question": "What is Role-Based Access Control (RBAC)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Giving everyone admin access"
+      },
+      {
+        "id": "b",
+        "text": "Assigning permissions based on job roles"
+      },
+      {
+        "id": "c",
+        "text": "No access control"
+      },
+      {
+        "id": "d",
+        "text": "Random access assignment"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "RBAC assigns permissions based on roles, enforcing least privilege.",
+    "id": "q142"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "medium",
+    "question": "What is a SIEM system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of firewall"
+      },
+      {
+        "id": "b",
+        "text": "Security Information and Event Management"
+      },
+      {
+        "id": "c",
+        "text": "A password manager"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "SIEM collects and analyzes security events from multiple sources.",
+    "id": "q143"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "medium",
+    "question": "What is the difference between encryption and hashing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They are the same"
+      },
+      {
+        "id": "b",
+        "text": "Encryption is reversible, hashing is one-way"
+      },
+      {
+        "id": "c",
+        "text": "Hashing is reversible, encryption is one-way"
+      },
+      {
+        "id": "d",
+        "text": "Neither can be reversed"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Encryption can be decrypted, while hashing produces a one-way digest.",
+    "id": "q144"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "medium",
+    "question": "What is Cross-Site Scripting (XSS)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "Injecting malicious scripts into web pages"
+      },
+      {
+        "id": "c",
+        "text": "A network protocol"
+      },
+      {
+        "id": "d",
+        "text": "A password attack"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "XSS attacks inject malicious JavaScript into web pages viewed by other users.",
+    "id": "q145"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "medium",
+    "question": "What is a CVE identifier?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of malware"
+      },
+      {
+        "id": "b",
+        "text": "Common Vulnerabilities and Exposures identifier"
+      },
+      {
+        "id": "c",
+        "text": "A password"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "CVE provides standardized identifiers for publicly known vulnerabilities.",
+    "id": "q146"
+  },
+  {
+    "category": "access-control",
+    "difficulty": "medium",
+    "question": "What is Role-Based Access Control (RBAC)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Giving everyone admin access"
+      },
+      {
+        "id": "b",
+        "text": "Assigning permissions based on job roles"
+      },
+      {
+        "id": "c",
+        "text": "No access control"
+      },
+      {
+        "id": "d",
+        "text": "Random access assignment"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "RBAC assigns permissions based on roles, enforcing least privilege.",
+    "id": "q147"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "medium",
+    "question": "What is a SIEM system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of firewall"
+      },
+      {
+        "id": "b",
+        "text": "Security Information and Event Management"
+      },
+      {
+        "id": "c",
+        "text": "A password manager"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "SIEM collects and analyzes security events from multiple sources.",
+    "id": "q148"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "medium",
+    "question": "What is the difference between encryption and hashing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They are the same"
+      },
+      {
+        "id": "b",
+        "text": "Encryption is reversible, hashing is one-way"
+      },
+      {
+        "id": "c",
+        "text": "Hashing is reversible, encryption is one-way"
+      },
+      {
+        "id": "d",
+        "text": "Neither can be reversed"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Encryption can be decrypted, while hashing produces a one-way digest.",
+    "id": "q149"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "medium",
+    "question": "What is Cross-Site Scripting (XSS)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "Injecting malicious scripts into web pages"
+      },
+      {
+        "id": "c",
+        "text": "A network protocol"
+      },
+      {
+        "id": "d",
+        "text": "A password attack"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "XSS attacks inject malicious JavaScript into web pages viewed by other users.",
+    "id": "q150"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "medium",
+    "question": "What is a CVE identifier?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of malware"
+      },
+      {
+        "id": "b",
+        "text": "Common Vulnerabilities and Exposures identifier"
+      },
+      {
+        "id": "c",
+        "text": "A password"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "CVE provides standardized identifiers for publicly known vulnerabilities.",
+    "id": "q151"
+  },
+  {
+    "category": "access-control",
+    "difficulty": "medium",
+    "question": "What is Role-Based Access Control (RBAC)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Giving everyone admin access"
+      },
+      {
+        "id": "b",
+        "text": "Assigning permissions based on job roles"
+      },
+      {
+        "id": "c",
+        "text": "No access control"
+      },
+      {
+        "id": "d",
+        "text": "Random access assignment"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "RBAC assigns permissions based on roles, enforcing least privilege.",
+    "id": "q152"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "medium",
+    "question": "What is a SIEM system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of firewall"
+      },
+      {
+        "id": "b",
+        "text": "Security Information and Event Management"
+      },
+      {
+        "id": "c",
+        "text": "A password manager"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "SIEM collects and analyzes security events from multiple sources.",
+    "id": "q153"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "medium",
+    "question": "What is the difference between encryption and hashing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They are the same"
+      },
+      {
+        "id": "b",
+        "text": "Encryption is reversible, hashing is one-way"
+      },
+      {
+        "id": "c",
+        "text": "Hashing is reversible, encryption is one-way"
+      },
+      {
+        "id": "d",
+        "text": "Neither can be reversed"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Encryption can be decrypted, while hashing produces a one-way digest.",
+    "id": "q154"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "medium",
+    "question": "What is Cross-Site Scripting (XSS)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "Injecting malicious scripts into web pages"
+      },
+      {
+        "id": "c",
+        "text": "A network protocol"
+      },
+      {
+        "id": "d",
+        "text": "A password attack"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "XSS attacks inject malicious JavaScript into web pages viewed by other users.",
+    "id": "q155"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "medium",
+    "question": "What is a CVE identifier?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of malware"
+      },
+      {
+        "id": "b",
+        "text": "Common Vulnerabilities and Exposures identifier"
+      },
+      {
+        "id": "c",
+        "text": "A password"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "CVE provides standardized identifiers for publicly known vulnerabilities.",
+    "id": "q156"
+  },
+  {
+    "category": "access-control",
+    "difficulty": "medium",
+    "question": "What is Role-Based Access Control (RBAC)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Giving everyone admin access"
+      },
+      {
+        "id": "b",
+        "text": "Assigning permissions based on job roles"
+      },
+      {
+        "id": "c",
+        "text": "No access control"
+      },
+      {
+        "id": "d",
+        "text": "Random access assignment"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "RBAC assigns permissions based on roles, enforcing least privilege.",
+    "id": "q157"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "medium",
+    "question": "What is a SIEM system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of firewall"
+      },
+      {
+        "id": "b",
+        "text": "Security Information and Event Management"
+      },
+      {
+        "id": "c",
+        "text": "A password manager"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "SIEM collects and analyzes security events from multiple sources.",
+    "id": "q158"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "medium",
+    "question": "What is the difference between encryption and hashing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They are the same"
+      },
+      {
+        "id": "b",
+        "text": "Encryption is reversible, hashing is one-way"
+      },
+      {
+        "id": "c",
+        "text": "Hashing is reversible, encryption is one-way"
+      },
+      {
+        "id": "d",
+        "text": "Neither can be reversed"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Encryption can be decrypted, while hashing produces a one-way digest.",
+    "id": "q159"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "medium",
+    "question": "What is Cross-Site Scripting (XSS)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "Injecting malicious scripts into web pages"
+      },
+      {
+        "id": "c",
+        "text": "A network protocol"
+      },
+      {
+        "id": "d",
+        "text": "A password attack"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "XSS attacks inject malicious JavaScript into web pages viewed by other users.",
+    "id": "q160"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "medium",
+    "question": "What is a CVE identifier?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of malware"
+      },
+      {
+        "id": "b",
+        "text": "Common Vulnerabilities and Exposures identifier"
+      },
+      {
+        "id": "c",
+        "text": "A password"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "CVE provides standardized identifiers for publicly known vulnerabilities.",
+    "id": "q161"
+  },
+  {
+    "category": "access-control",
+    "difficulty": "medium",
+    "question": "What is Role-Based Access Control (RBAC)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Giving everyone admin access"
+      },
+      {
+        "id": "b",
+        "text": "Assigning permissions based on job roles"
+      },
+      {
+        "id": "c",
+        "text": "No access control"
+      },
+      {
+        "id": "d",
+        "text": "Random access assignment"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "RBAC assigns permissions based on roles, enforcing least privilege.",
+    "id": "q162"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "medium",
+    "question": "What is a SIEM system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of firewall"
+      },
+      {
+        "id": "b",
+        "text": "Security Information and Event Management"
+      },
+      {
+        "id": "c",
+        "text": "A password manager"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "SIEM collects and analyzes security events from multiple sources.",
+    "id": "q163"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "medium",
+    "question": "What is the difference between encryption and hashing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They are the same"
+      },
+      {
+        "id": "b",
+        "text": "Encryption is reversible, hashing is one-way"
+      },
+      {
+        "id": "c",
+        "text": "Hashing is reversible, encryption is one-way"
+      },
+      {
+        "id": "d",
+        "text": "Neither can be reversed"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Encryption can be decrypted, while hashing produces a one-way digest.",
+    "id": "q164"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "medium",
+    "question": "What is Cross-Site Scripting (XSS)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "Injecting malicious scripts into web pages"
+      },
+      {
+        "id": "c",
+        "text": "A network protocol"
+      },
+      {
+        "id": "d",
+        "text": "A password attack"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "XSS attacks inject malicious JavaScript into web pages viewed by other users.",
+    "id": "q165"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "medium",
+    "question": "What is a CVE identifier?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of malware"
+      },
+      {
+        "id": "b",
+        "text": "Common Vulnerabilities and Exposures identifier"
+      },
+      {
+        "id": "c",
+        "text": "A password"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "CVE provides standardized identifiers for publicly known vulnerabilities.",
+    "id": "q166"
+  },
+  {
+    "category": "access-control",
+    "difficulty": "medium",
+    "question": "What is Role-Based Access Control (RBAC)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Giving everyone admin access"
+      },
+      {
+        "id": "b",
+        "text": "Assigning permissions based on job roles"
+      },
+      {
+        "id": "c",
+        "text": "No access control"
+      },
+      {
+        "id": "d",
+        "text": "Random access assignment"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "RBAC assigns permissions based on roles, enforcing least privilege.",
+    "id": "q167"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "medium",
+    "question": "What is a SIEM system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of firewall"
+      },
+      {
+        "id": "b",
+        "text": "Security Information and Event Management"
+      },
+      {
+        "id": "c",
+        "text": "A password manager"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "SIEM collects and analyzes security events from multiple sources.",
+    "id": "q168"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "medium",
+    "question": "What is the difference between encryption and hashing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They are the same"
+      },
+      {
+        "id": "b",
+        "text": "Encryption is reversible, hashing is one-way"
+      },
+      {
+        "id": "c",
+        "text": "Hashing is reversible, encryption is one-way"
+      },
+      {
+        "id": "d",
+        "text": "Neither can be reversed"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Encryption can be decrypted, while hashing produces a one-way digest.",
+    "id": "q169"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "medium",
+    "question": "What is Cross-Site Scripting (XSS)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "Injecting malicious scripts into web pages"
+      },
+      {
+        "id": "c",
+        "text": "A network protocol"
+      },
+      {
+        "id": "d",
+        "text": "A password attack"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "XSS attacks inject malicious JavaScript into web pages viewed by other users.",
+    "id": "q170"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "medium",
+    "question": "What is a CVE identifier?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of malware"
+      },
+      {
+        "id": "b",
+        "text": "Common Vulnerabilities and Exposures identifier"
+      },
+      {
+        "id": "c",
+        "text": "A password"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "CVE provides standardized identifiers for publicly known vulnerabilities.",
+    "id": "q171"
+  },
+  {
+    "category": "access-control",
+    "difficulty": "medium",
+    "question": "What is Role-Based Access Control (RBAC)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Giving everyone admin access"
+      },
+      {
+        "id": "b",
+        "text": "Assigning permissions based on job roles"
+      },
+      {
+        "id": "c",
+        "text": "No access control"
+      },
+      {
+        "id": "d",
+        "text": "Random access assignment"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "RBAC assigns permissions based on roles, enforcing least privilege.",
+    "id": "q172"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "medium",
+    "question": "What is a SIEM system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of firewall"
+      },
+      {
+        "id": "b",
+        "text": "Security Information and Event Management"
+      },
+      {
+        "id": "c",
+        "text": "A password manager"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "SIEM collects and analyzes security events from multiple sources.",
+    "id": "q173"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "medium",
+    "question": "What is the difference between encryption and hashing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They are the same"
+      },
+      {
+        "id": "b",
+        "text": "Encryption is reversible, hashing is one-way"
+      },
+      {
+        "id": "c",
+        "text": "Hashing is reversible, encryption is one-way"
+      },
+      {
+        "id": "d",
+        "text": "Neither can be reversed"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Encryption can be decrypted, while hashing produces a one-way digest.",
+    "id": "q174"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "medium",
+    "question": "What is Cross-Site Scripting (XSS)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "Injecting malicious scripts into web pages"
+      },
+      {
+        "id": "c",
+        "text": "A network protocol"
+      },
+      {
+        "id": "d",
+        "text": "A password attack"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "XSS attacks inject malicious JavaScript into web pages viewed by other users.",
+    "id": "q175"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "medium",
+    "question": "What is a CVE identifier?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of malware"
+      },
+      {
+        "id": "b",
+        "text": "Common Vulnerabilities and Exposures identifier"
+      },
+      {
+        "id": "c",
+        "text": "A password"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "CVE provides standardized identifiers for publicly known vulnerabilities.",
+    "id": "q176"
+  },
+  {
+    "category": "access-control",
+    "difficulty": "medium",
+    "question": "What is Role-Based Access Control (RBAC)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Giving everyone admin access"
+      },
+      {
+        "id": "b",
+        "text": "Assigning permissions based on job roles"
+      },
+      {
+        "id": "c",
+        "text": "No access control"
+      },
+      {
+        "id": "d",
+        "text": "Random access assignment"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "RBAC assigns permissions based on roles, enforcing least privilege.",
+    "id": "q177"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "medium",
+    "question": "What is a SIEM system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of firewall"
+      },
+      {
+        "id": "b",
+        "text": "Security Information and Event Management"
+      },
+      {
+        "id": "c",
+        "text": "A password manager"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "SIEM collects and analyzes security events from multiple sources.",
+    "id": "q178"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "medium",
+    "question": "What is the difference between encryption and hashing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They are the same"
+      },
+      {
+        "id": "b",
+        "text": "Encryption is reversible, hashing is one-way"
+      },
+      {
+        "id": "c",
+        "text": "Hashing is reversible, encryption is one-way"
+      },
+      {
+        "id": "d",
+        "text": "Neither can be reversed"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Encryption can be decrypted, while hashing produces a one-way digest.",
+    "id": "q179"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "medium",
+    "question": "What is Cross-Site Scripting (XSS)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "Injecting malicious scripts into web pages"
+      },
+      {
+        "id": "c",
+        "text": "A network protocol"
+      },
+      {
+        "id": "d",
+        "text": "A password attack"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "XSS attacks inject malicious JavaScript into web pages viewed by other users.",
+    "id": "q180"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "medium",
+    "question": "What is a CVE identifier?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of malware"
+      },
+      {
+        "id": "b",
+        "text": "Common Vulnerabilities and Exposures identifier"
+      },
+      {
+        "id": "c",
+        "text": "A password"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "CVE provides standardized identifiers for publicly known vulnerabilities.",
+    "id": "q181"
+  },
+  {
+    "category": "access-control",
+    "difficulty": "medium",
+    "question": "What is Role-Based Access Control (RBAC)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Giving everyone admin access"
+      },
+      {
+        "id": "b",
+        "text": "Assigning permissions based on job roles"
+      },
+      {
+        "id": "c",
+        "text": "No access control"
+      },
+      {
+        "id": "d",
+        "text": "Random access assignment"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "RBAC assigns permissions based on roles, enforcing least privilege.",
+    "id": "q182"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "medium",
+    "question": "What is a SIEM system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of firewall"
+      },
+      {
+        "id": "b",
+        "text": "Security Information and Event Management"
+      },
+      {
+        "id": "c",
+        "text": "A password manager"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "SIEM collects and analyzes security events from multiple sources.",
+    "id": "q183"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "medium",
+    "question": "What is the difference between encryption and hashing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They are the same"
+      },
+      {
+        "id": "b",
+        "text": "Encryption is reversible, hashing is one-way"
+      },
+      {
+        "id": "c",
+        "text": "Hashing is reversible, encryption is one-way"
+      },
+      {
+        "id": "d",
+        "text": "Neither can be reversed"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Encryption can be decrypted, while hashing produces a one-way digest.",
+    "id": "q184"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "medium",
+    "question": "What is Cross-Site Scripting (XSS)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "Injecting malicious scripts into web pages"
+      },
+      {
+        "id": "c",
+        "text": "A network protocol"
+      },
+      {
+        "id": "d",
+        "text": "A password attack"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "XSS attacks inject malicious JavaScript into web pages viewed by other users.",
+    "id": "q185"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "medium",
+    "question": "What is a CVE identifier?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of malware"
+      },
+      {
+        "id": "b",
+        "text": "Common Vulnerabilities and Exposures identifier"
+      },
+      {
+        "id": "c",
+        "text": "A password"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "CVE provides standardized identifiers for publicly known vulnerabilities.",
+    "id": "q186"
+  },
+  {
+    "category": "access-control",
+    "difficulty": "medium",
+    "question": "What is Role-Based Access Control (RBAC)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Giving everyone admin access"
+      },
+      {
+        "id": "b",
+        "text": "Assigning permissions based on job roles"
+      },
+      {
+        "id": "c",
+        "text": "No access control"
+      },
+      {
+        "id": "d",
+        "text": "Random access assignment"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "RBAC assigns permissions based on roles, enforcing least privilege.",
+    "id": "q187"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "medium",
+    "question": "What is a SIEM system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of firewall"
+      },
+      {
+        "id": "b",
+        "text": "Security Information and Event Management"
+      },
+      {
+        "id": "c",
+        "text": "A password manager"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "SIEM collects and analyzes security events from multiple sources.",
+    "id": "q188"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "medium",
+    "question": "What is the difference between encryption and hashing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They are the same"
+      },
+      {
+        "id": "b",
+        "text": "Encryption is reversible, hashing is one-way"
+      },
+      {
+        "id": "c",
+        "text": "Hashing is reversible, encryption is one-way"
+      },
+      {
+        "id": "d",
+        "text": "Neither can be reversed"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Encryption can be decrypted, while hashing produces a one-way digest.",
+    "id": "q189"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "medium",
+    "question": "What is Cross-Site Scripting (XSS)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "Injecting malicious scripts into web pages"
+      },
+      {
+        "id": "c",
+        "text": "A network protocol"
+      },
+      {
+        "id": "d",
+        "text": "A password attack"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "XSS attacks inject malicious JavaScript into web pages viewed by other users.",
+    "id": "q190"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "medium",
+    "question": "What is a CVE identifier?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of malware"
+      },
+      {
+        "id": "b",
+        "text": "Common Vulnerabilities and Exposures identifier"
+      },
+      {
+        "id": "c",
+        "text": "A password"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "CVE provides standardized identifiers for publicly known vulnerabilities.",
+    "id": "q191"
+  },
+  {
+    "category": "access-control",
+    "difficulty": "medium",
+    "question": "What is Role-Based Access Control (RBAC)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Giving everyone admin access"
+      },
+      {
+        "id": "b",
+        "text": "Assigning permissions based on job roles"
+      },
+      {
+        "id": "c",
+        "text": "No access control"
+      },
+      {
+        "id": "d",
+        "text": "Random access assignment"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "RBAC assigns permissions based on roles, enforcing least privilege.",
+    "id": "q192"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "medium",
+    "question": "What is a SIEM system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of firewall"
+      },
+      {
+        "id": "b",
+        "text": "Security Information and Event Management"
+      },
+      {
+        "id": "c",
+        "text": "A password manager"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "SIEM collects and analyzes security events from multiple sources.",
+    "id": "q193"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "medium",
+    "question": "What is the difference between encryption and hashing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They are the same"
+      },
+      {
+        "id": "b",
+        "text": "Encryption is reversible, hashing is one-way"
+      },
+      {
+        "id": "c",
+        "text": "Hashing is reversible, encryption is one-way"
+      },
+      {
+        "id": "d",
+        "text": "Neither can be reversed"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Encryption can be decrypted, while hashing produces a one-way digest.",
+    "id": "q194"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "medium",
+    "question": "What is Cross-Site Scripting (XSS)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "Injecting malicious scripts into web pages"
+      },
+      {
+        "id": "c",
+        "text": "A network protocol"
+      },
+      {
+        "id": "d",
+        "text": "A password attack"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "XSS attacks inject malicious JavaScript into web pages viewed by other users.",
+    "id": "q195"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "medium",
+    "question": "What is a CVE identifier?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of malware"
+      },
+      {
+        "id": "b",
+        "text": "Common Vulnerabilities and Exposures identifier"
+      },
+      {
+        "id": "c",
+        "text": "A password"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "CVE provides standardized identifiers for publicly known vulnerabilities.",
+    "id": "q196"
+  },
+  {
+    "category": "access-control",
+    "difficulty": "medium",
+    "question": "What is Role-Based Access Control (RBAC)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Giving everyone admin access"
+      },
+      {
+        "id": "b",
+        "text": "Assigning permissions based on job roles"
+      },
+      {
+        "id": "c",
+        "text": "No access control"
+      },
+      {
+        "id": "d",
+        "text": "Random access assignment"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "RBAC assigns permissions based on roles, enforcing least privilege.",
+    "id": "q197"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "medium",
+    "question": "What is a SIEM system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of firewall"
+      },
+      {
+        "id": "b",
+        "text": "Security Information and Event Management"
+      },
+      {
+        "id": "c",
+        "text": "A password manager"
+      },
+      {
+        "id": "d",
+        "text": "A network device"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "SIEM collects and analyzes security events from multiple sources.",
+    "id": "q198"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "medium",
+    "question": "What is the difference between encryption and hashing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They are the same"
+      },
+      {
+        "id": "b",
+        "text": "Encryption is reversible, hashing is one-way"
+      },
+      {
+        "id": "c",
+        "text": "Hashing is reversible, encryption is one-way"
+      },
+      {
+        "id": "d",
+        "text": "Neither can be reversed"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Encryption can be decrypted, while hashing produces a one-way digest.",
+    "id": "q199"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "medium",
+    "question": "What is Cross-Site Scripting (XSS)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "Injecting malicious scripts into web pages"
+      },
+      {
+        "id": "c",
+        "text": "A network protocol"
+      },
+      {
+        "id": "d",
+        "text": "A password attack"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "XSS attacks inject malicious JavaScript into web pages viewed by other users.",
+    "id": "q200"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "hard",
+    "question": "What is the main advantage of Elliptic Curve Cryptography (ECC) over RSA?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ECC is less secure"
+      },
+      {
+        "id": "b",
+        "text": "ECC provides same security with smaller key sizes"
+      },
+      {
+        "id": "c",
+        "text": "RSA is always better"
+      },
+      {
+        "id": "d",
+        "text": "They are identical"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "ECC achieves equivalent security with smaller keys, improving performance.",
+    "id": "q201"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "hard",
+    "question": "What is a race condition vulnerability?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "A timing-dependent flaw where outcome depends on sequence"
+      },
+      {
+        "id": "c",
+        "text": "A network issue"
+      },
+      {
+        "id": "d",
+        "text": "A password problem"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Race conditions occur when system behavior depends on timing of events.",
+    "id": "q202"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "hard",
+    "question": "What is responsible disclosure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Publishing vulnerabilities immediately"
+      },
+      {
+        "id": "b",
+        "text": "Reporting to vendors before public disclosure"
+      },
+      {
+        "id": "c",
+        "text": "Ignoring vulnerabilities"
+      },
+      {
+        "id": "d",
+        "text": "Selling vulnerabilities"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Responsible disclosure gives vendors time to patch before public release.",
+    "id": "q203"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "hard",
+    "question": "What are the phases of the NIST incident response lifecycle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Preparation, Detection, Analysis, Containment, Eradication, Recovery, Post-Incident"
+      },
+      {
+        "id": "b",
+        "text": "Just detection"
+      },
+      {
+        "id": "c",
+        "text": "Only recovery"
+      },
+      {
+        "id": "d",
+        "text": "No structured process"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "NIST defines a comprehensive lifecycle for handling security incidents.",
+    "id": "q204"
+  },
+  {
+    "category": "cloud-security",
+    "difficulty": "hard",
+    "question": "In the shared responsibility model, what is the customer typically responsible for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical data center security"
+      },
+      {
+        "id": "b",
+        "text": "Securing their data and access configurations"
+      },
+      {
+        "id": "c",
+        "text": "Network infrastructure"
+      },
+      {
+        "id": "d",
+        "text": "Hardware maintenance"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Customers secure their data, identities, and configurations; providers secure infrastructure.",
+    "id": "q205"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "hard",
+    "question": "What is the main advantage of Elliptic Curve Cryptography (ECC) over RSA?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ECC is less secure"
+      },
+      {
+        "id": "b",
+        "text": "ECC provides same security with smaller key sizes"
+      },
+      {
+        "id": "c",
+        "text": "RSA is always better"
+      },
+      {
+        "id": "d",
+        "text": "They are identical"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "ECC achieves equivalent security with smaller keys, improving performance.",
+    "id": "q206"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "hard",
+    "question": "What is a race condition vulnerability?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "A timing-dependent flaw where outcome depends on sequence"
+      },
+      {
+        "id": "c",
+        "text": "A network issue"
+      },
+      {
+        "id": "d",
+        "text": "A password problem"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Race conditions occur when system behavior depends on timing of events.",
+    "id": "q207"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "hard",
+    "question": "What is responsible disclosure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Publishing vulnerabilities immediately"
+      },
+      {
+        "id": "b",
+        "text": "Reporting to vendors before public disclosure"
+      },
+      {
+        "id": "c",
+        "text": "Ignoring vulnerabilities"
+      },
+      {
+        "id": "d",
+        "text": "Selling vulnerabilities"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Responsible disclosure gives vendors time to patch before public release.",
+    "id": "q208"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "hard",
+    "question": "What are the phases of the NIST incident response lifecycle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Preparation, Detection, Analysis, Containment, Eradication, Recovery, Post-Incident"
+      },
+      {
+        "id": "b",
+        "text": "Just detection"
+      },
+      {
+        "id": "c",
+        "text": "Only recovery"
+      },
+      {
+        "id": "d",
+        "text": "No structured process"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "NIST defines a comprehensive lifecycle for handling security incidents.",
+    "id": "q209"
+  },
+  {
+    "category": "cloud-security",
+    "difficulty": "hard",
+    "question": "In the shared responsibility model, what is the customer typically responsible for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical data center security"
+      },
+      {
+        "id": "b",
+        "text": "Securing their data and access configurations"
+      },
+      {
+        "id": "c",
+        "text": "Network infrastructure"
+      },
+      {
+        "id": "d",
+        "text": "Hardware maintenance"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Customers secure their data, identities, and configurations; providers secure infrastructure.",
+    "id": "q210"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "hard",
+    "question": "What is the main advantage of Elliptic Curve Cryptography (ECC) over RSA?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ECC is less secure"
+      },
+      {
+        "id": "b",
+        "text": "ECC provides same security with smaller key sizes"
+      },
+      {
+        "id": "c",
+        "text": "RSA is always better"
+      },
+      {
+        "id": "d",
+        "text": "They are identical"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "ECC achieves equivalent security with smaller keys, improving performance.",
+    "id": "q211"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "hard",
+    "question": "What is a race condition vulnerability?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "A timing-dependent flaw where outcome depends on sequence"
+      },
+      {
+        "id": "c",
+        "text": "A network issue"
+      },
+      {
+        "id": "d",
+        "text": "A password problem"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Race conditions occur when system behavior depends on timing of events.",
+    "id": "q212"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "hard",
+    "question": "What is responsible disclosure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Publishing vulnerabilities immediately"
+      },
+      {
+        "id": "b",
+        "text": "Reporting to vendors before public disclosure"
+      },
+      {
+        "id": "c",
+        "text": "Ignoring vulnerabilities"
+      },
+      {
+        "id": "d",
+        "text": "Selling vulnerabilities"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Responsible disclosure gives vendors time to patch before public release.",
+    "id": "q213"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "hard",
+    "question": "What are the phases of the NIST incident response lifecycle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Preparation, Detection, Analysis, Containment, Eradication, Recovery, Post-Incident"
+      },
+      {
+        "id": "b",
+        "text": "Just detection"
+      },
+      {
+        "id": "c",
+        "text": "Only recovery"
+      },
+      {
+        "id": "d",
+        "text": "No structured process"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "NIST defines a comprehensive lifecycle for handling security incidents.",
+    "id": "q214"
+  },
+  {
+    "category": "cloud-security",
+    "difficulty": "hard",
+    "question": "In the shared responsibility model, what is the customer typically responsible for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical data center security"
+      },
+      {
+        "id": "b",
+        "text": "Securing their data and access configurations"
+      },
+      {
+        "id": "c",
+        "text": "Network infrastructure"
+      },
+      {
+        "id": "d",
+        "text": "Hardware maintenance"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Customers secure their data, identities, and configurations; providers secure infrastructure.",
+    "id": "q215"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "hard",
+    "question": "What is the main advantage of Elliptic Curve Cryptography (ECC) over RSA?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ECC is less secure"
+      },
+      {
+        "id": "b",
+        "text": "ECC provides same security with smaller key sizes"
+      },
+      {
+        "id": "c",
+        "text": "RSA is always better"
+      },
+      {
+        "id": "d",
+        "text": "They are identical"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "ECC achieves equivalent security with smaller keys, improving performance.",
+    "id": "q216"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "hard",
+    "question": "What is a race condition vulnerability?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "A timing-dependent flaw where outcome depends on sequence"
+      },
+      {
+        "id": "c",
+        "text": "A network issue"
+      },
+      {
+        "id": "d",
+        "text": "A password problem"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Race conditions occur when system behavior depends on timing of events.",
+    "id": "q217"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "hard",
+    "question": "What is responsible disclosure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Publishing vulnerabilities immediately"
+      },
+      {
+        "id": "b",
+        "text": "Reporting to vendors before public disclosure"
+      },
+      {
+        "id": "c",
+        "text": "Ignoring vulnerabilities"
+      },
+      {
+        "id": "d",
+        "text": "Selling vulnerabilities"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Responsible disclosure gives vendors time to patch before public release.",
+    "id": "q218"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "hard",
+    "question": "What are the phases of the NIST incident response lifecycle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Preparation, Detection, Analysis, Containment, Eradication, Recovery, Post-Incident"
+      },
+      {
+        "id": "b",
+        "text": "Just detection"
+      },
+      {
+        "id": "c",
+        "text": "Only recovery"
+      },
+      {
+        "id": "d",
+        "text": "No structured process"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "NIST defines a comprehensive lifecycle for handling security incidents.",
+    "id": "q219"
+  },
+  {
+    "category": "cloud-security",
+    "difficulty": "hard",
+    "question": "In the shared responsibility model, what is the customer typically responsible for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical data center security"
+      },
+      {
+        "id": "b",
+        "text": "Securing their data and access configurations"
+      },
+      {
+        "id": "c",
+        "text": "Network infrastructure"
+      },
+      {
+        "id": "d",
+        "text": "Hardware maintenance"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Customers secure their data, identities, and configurations; providers secure infrastructure.",
+    "id": "q220"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "hard",
+    "question": "What is the main advantage of Elliptic Curve Cryptography (ECC) over RSA?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ECC is less secure"
+      },
+      {
+        "id": "b",
+        "text": "ECC provides same security with smaller key sizes"
+      },
+      {
+        "id": "c",
+        "text": "RSA is always better"
+      },
+      {
+        "id": "d",
+        "text": "They are identical"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "ECC achieves equivalent security with smaller keys, improving performance.",
+    "id": "q221"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "hard",
+    "question": "What is a race condition vulnerability?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "A timing-dependent flaw where outcome depends on sequence"
+      },
+      {
+        "id": "c",
+        "text": "A network issue"
+      },
+      {
+        "id": "d",
+        "text": "A password problem"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Race conditions occur when system behavior depends on timing of events.",
+    "id": "q222"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "hard",
+    "question": "What is responsible disclosure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Publishing vulnerabilities immediately"
+      },
+      {
+        "id": "b",
+        "text": "Reporting to vendors before public disclosure"
+      },
+      {
+        "id": "c",
+        "text": "Ignoring vulnerabilities"
+      },
+      {
+        "id": "d",
+        "text": "Selling vulnerabilities"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Responsible disclosure gives vendors time to patch before public release.",
+    "id": "q223"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "hard",
+    "question": "What are the phases of the NIST incident response lifecycle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Preparation, Detection, Analysis, Containment, Eradication, Recovery, Post-Incident"
+      },
+      {
+        "id": "b",
+        "text": "Just detection"
+      },
+      {
+        "id": "c",
+        "text": "Only recovery"
+      },
+      {
+        "id": "d",
+        "text": "No structured process"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "NIST defines a comprehensive lifecycle for handling security incidents.",
+    "id": "q224"
+  },
+  {
+    "category": "cloud-security",
+    "difficulty": "hard",
+    "question": "In the shared responsibility model, what is the customer typically responsible for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical data center security"
+      },
+      {
+        "id": "b",
+        "text": "Securing their data and access configurations"
+      },
+      {
+        "id": "c",
+        "text": "Network infrastructure"
+      },
+      {
+        "id": "d",
+        "text": "Hardware maintenance"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Customers secure their data, identities, and configurations; providers secure infrastructure.",
+    "id": "q225"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "hard",
+    "question": "What is the main advantage of Elliptic Curve Cryptography (ECC) over RSA?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ECC is less secure"
+      },
+      {
+        "id": "b",
+        "text": "ECC provides same security with smaller key sizes"
+      },
+      {
+        "id": "c",
+        "text": "RSA is always better"
+      },
+      {
+        "id": "d",
+        "text": "They are identical"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "ECC achieves equivalent security with smaller keys, improving performance.",
+    "id": "q226"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "hard",
+    "question": "What is a race condition vulnerability?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "A timing-dependent flaw where outcome depends on sequence"
+      },
+      {
+        "id": "c",
+        "text": "A network issue"
+      },
+      {
+        "id": "d",
+        "text": "A password problem"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Race conditions occur when system behavior depends on timing of events.",
+    "id": "q227"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "hard",
+    "question": "What is responsible disclosure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Publishing vulnerabilities immediately"
+      },
+      {
+        "id": "b",
+        "text": "Reporting to vendors before public disclosure"
+      },
+      {
+        "id": "c",
+        "text": "Ignoring vulnerabilities"
+      },
+      {
+        "id": "d",
+        "text": "Selling vulnerabilities"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Responsible disclosure gives vendors time to patch before public release.",
+    "id": "q228"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "hard",
+    "question": "What are the phases of the NIST incident response lifecycle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Preparation, Detection, Analysis, Containment, Eradication, Recovery, Post-Incident"
+      },
+      {
+        "id": "b",
+        "text": "Just detection"
+      },
+      {
+        "id": "c",
+        "text": "Only recovery"
+      },
+      {
+        "id": "d",
+        "text": "No structured process"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "NIST defines a comprehensive lifecycle for handling security incidents.",
+    "id": "q229"
+  },
+  {
+    "category": "cloud-security",
+    "difficulty": "hard",
+    "question": "In the shared responsibility model, what is the customer typically responsible for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical data center security"
+      },
+      {
+        "id": "b",
+        "text": "Securing their data and access configurations"
+      },
+      {
+        "id": "c",
+        "text": "Network infrastructure"
+      },
+      {
+        "id": "d",
+        "text": "Hardware maintenance"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Customers secure their data, identities, and configurations; providers secure infrastructure.",
+    "id": "q230"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "hard",
+    "question": "What is the main advantage of Elliptic Curve Cryptography (ECC) over RSA?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ECC is less secure"
+      },
+      {
+        "id": "b",
+        "text": "ECC provides same security with smaller key sizes"
+      },
+      {
+        "id": "c",
+        "text": "RSA is always better"
+      },
+      {
+        "id": "d",
+        "text": "They are identical"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "ECC achieves equivalent security with smaller keys, improving performance.",
+    "id": "q231"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "hard",
+    "question": "What is a race condition vulnerability?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "A timing-dependent flaw where outcome depends on sequence"
+      },
+      {
+        "id": "c",
+        "text": "A network issue"
+      },
+      {
+        "id": "d",
+        "text": "A password problem"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Race conditions occur when system behavior depends on timing of events.",
+    "id": "q232"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "hard",
+    "question": "What is responsible disclosure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Publishing vulnerabilities immediately"
+      },
+      {
+        "id": "b",
+        "text": "Reporting to vendors before public disclosure"
+      },
+      {
+        "id": "c",
+        "text": "Ignoring vulnerabilities"
+      },
+      {
+        "id": "d",
+        "text": "Selling vulnerabilities"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Responsible disclosure gives vendors time to patch before public release.",
+    "id": "q233"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "hard",
+    "question": "What are the phases of the NIST incident response lifecycle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Preparation, Detection, Analysis, Containment, Eradication, Recovery, Post-Incident"
+      },
+      {
+        "id": "b",
+        "text": "Just detection"
+      },
+      {
+        "id": "c",
+        "text": "Only recovery"
+      },
+      {
+        "id": "d",
+        "text": "No structured process"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "NIST defines a comprehensive lifecycle for handling security incidents.",
+    "id": "q234"
+  },
+  {
+    "category": "cloud-security",
+    "difficulty": "hard",
+    "question": "In the shared responsibility model, what is the customer typically responsible for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical data center security"
+      },
+      {
+        "id": "b",
+        "text": "Securing their data and access configurations"
+      },
+      {
+        "id": "c",
+        "text": "Network infrastructure"
+      },
+      {
+        "id": "d",
+        "text": "Hardware maintenance"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Customers secure their data, identities, and configurations; providers secure infrastructure.",
+    "id": "q235"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "hard",
+    "question": "What is the main advantage of Elliptic Curve Cryptography (ECC) over RSA?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ECC is less secure"
+      },
+      {
+        "id": "b",
+        "text": "ECC provides same security with smaller key sizes"
+      },
+      {
+        "id": "c",
+        "text": "RSA is always better"
+      },
+      {
+        "id": "d",
+        "text": "They are identical"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "ECC achieves equivalent security with smaller keys, improving performance.",
+    "id": "q236"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "hard",
+    "question": "What is a race condition vulnerability?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "A timing-dependent flaw where outcome depends on sequence"
+      },
+      {
+        "id": "c",
+        "text": "A network issue"
+      },
+      {
+        "id": "d",
+        "text": "A password problem"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Race conditions occur when system behavior depends on timing of events.",
+    "id": "q237"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "hard",
+    "question": "What is responsible disclosure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Publishing vulnerabilities immediately"
+      },
+      {
+        "id": "b",
+        "text": "Reporting to vendors before public disclosure"
+      },
+      {
+        "id": "c",
+        "text": "Ignoring vulnerabilities"
+      },
+      {
+        "id": "d",
+        "text": "Selling vulnerabilities"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Responsible disclosure gives vendors time to patch before public release.",
+    "id": "q238"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "hard",
+    "question": "What are the phases of the NIST incident response lifecycle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Preparation, Detection, Analysis, Containment, Eradication, Recovery, Post-Incident"
+      },
+      {
+        "id": "b",
+        "text": "Just detection"
+      },
+      {
+        "id": "c",
+        "text": "Only recovery"
+      },
+      {
+        "id": "d",
+        "text": "No structured process"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "NIST defines a comprehensive lifecycle for handling security incidents.",
+    "id": "q239"
+  },
+  {
+    "category": "cloud-security",
+    "difficulty": "hard",
+    "question": "In the shared responsibility model, what is the customer typically responsible for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical data center security"
+      },
+      {
+        "id": "b",
+        "text": "Securing their data and access configurations"
+      },
+      {
+        "id": "c",
+        "text": "Network infrastructure"
+      },
+      {
+        "id": "d",
+        "text": "Hardware maintenance"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Customers secure their data, identities, and configurations; providers secure infrastructure.",
+    "id": "q240"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "hard",
+    "question": "What is the main advantage of Elliptic Curve Cryptography (ECC) over RSA?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ECC is less secure"
+      },
+      {
+        "id": "b",
+        "text": "ECC provides same security with smaller key sizes"
+      },
+      {
+        "id": "c",
+        "text": "RSA is always better"
+      },
+      {
+        "id": "d",
+        "text": "They are identical"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "ECC achieves equivalent security with smaller keys, improving performance.",
+    "id": "q241"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "hard",
+    "question": "What is a race condition vulnerability?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "A timing-dependent flaw where outcome depends on sequence"
+      },
+      {
+        "id": "c",
+        "text": "A network issue"
+      },
+      {
+        "id": "d",
+        "text": "A password problem"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Race conditions occur when system behavior depends on timing of events.",
+    "id": "q242"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "hard",
+    "question": "What is responsible disclosure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Publishing vulnerabilities immediately"
+      },
+      {
+        "id": "b",
+        "text": "Reporting to vendors before public disclosure"
+      },
+      {
+        "id": "c",
+        "text": "Ignoring vulnerabilities"
+      },
+      {
+        "id": "d",
+        "text": "Selling vulnerabilities"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Responsible disclosure gives vendors time to patch before public release.",
+    "id": "q243"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "hard",
+    "question": "What are the phases of the NIST incident response lifecycle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Preparation, Detection, Analysis, Containment, Eradication, Recovery, Post-Incident"
+      },
+      {
+        "id": "b",
+        "text": "Just detection"
+      },
+      {
+        "id": "c",
+        "text": "Only recovery"
+      },
+      {
+        "id": "d",
+        "text": "No structured process"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "NIST defines a comprehensive lifecycle for handling security incidents.",
+    "id": "q244"
+  },
+  {
+    "category": "cloud-security",
+    "difficulty": "hard",
+    "question": "In the shared responsibility model, what is the customer typically responsible for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical data center security"
+      },
+      {
+        "id": "b",
+        "text": "Securing their data and access configurations"
+      },
+      {
+        "id": "c",
+        "text": "Network infrastructure"
+      },
+      {
+        "id": "d",
+        "text": "Hardware maintenance"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Customers secure their data, identities, and configurations; providers secure infrastructure.",
+    "id": "q245"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "hard",
+    "question": "What is the main advantage of Elliptic Curve Cryptography (ECC) over RSA?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ECC is less secure"
+      },
+      {
+        "id": "b",
+        "text": "ECC provides same security with smaller key sizes"
+      },
+      {
+        "id": "c",
+        "text": "RSA is always better"
+      },
+      {
+        "id": "d",
+        "text": "They are identical"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "ECC achieves equivalent security with smaller keys, improving performance.",
+    "id": "q246"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "hard",
+    "question": "What is a race condition vulnerability?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "A timing-dependent flaw where outcome depends on sequence"
+      },
+      {
+        "id": "c",
+        "text": "A network issue"
+      },
+      {
+        "id": "d",
+        "text": "A password problem"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Race conditions occur when system behavior depends on timing of events.",
+    "id": "q247"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "hard",
+    "question": "What is responsible disclosure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Publishing vulnerabilities immediately"
+      },
+      {
+        "id": "b",
+        "text": "Reporting to vendors before public disclosure"
+      },
+      {
+        "id": "c",
+        "text": "Ignoring vulnerabilities"
+      },
+      {
+        "id": "d",
+        "text": "Selling vulnerabilities"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Responsible disclosure gives vendors time to patch before public release.",
+    "id": "q248"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "hard",
+    "question": "What are the phases of the NIST incident response lifecycle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Preparation, Detection, Analysis, Containment, Eradication, Recovery, Post-Incident"
+      },
+      {
+        "id": "b",
+        "text": "Just detection"
+      },
+      {
+        "id": "c",
+        "text": "Only recovery"
+      },
+      {
+        "id": "d",
+        "text": "No structured process"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "NIST defines a comprehensive lifecycle for handling security incidents.",
+    "id": "q249"
+  },
+  {
+    "category": "cloud-security",
+    "difficulty": "hard",
+    "question": "In the shared responsibility model, what is the customer typically responsible for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical data center security"
+      },
+      {
+        "id": "b",
+        "text": "Securing their data and access configurations"
+      },
+      {
+        "id": "c",
+        "text": "Network infrastructure"
+      },
+      {
+        "id": "d",
+        "text": "Hardware maintenance"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Customers secure their data, identities, and configurations; providers secure infrastructure.",
+    "id": "q250"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "hard",
+    "question": "What is the main advantage of Elliptic Curve Cryptography (ECC) over RSA?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ECC is less secure"
+      },
+      {
+        "id": "b",
+        "text": "ECC provides same security with smaller key sizes"
+      },
+      {
+        "id": "c",
+        "text": "RSA is always better"
+      },
+      {
+        "id": "d",
+        "text": "They are identical"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "ECC achieves equivalent security with smaller keys, improving performance.",
+    "id": "q251"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "hard",
+    "question": "What is a race condition vulnerability?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "A timing-dependent flaw where outcome depends on sequence"
+      },
+      {
+        "id": "c",
+        "text": "A network issue"
+      },
+      {
+        "id": "d",
+        "text": "A password problem"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Race conditions occur when system behavior depends on timing of events.",
+    "id": "q252"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "hard",
+    "question": "What is responsible disclosure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Publishing vulnerabilities immediately"
+      },
+      {
+        "id": "b",
+        "text": "Reporting to vendors before public disclosure"
+      },
+      {
+        "id": "c",
+        "text": "Ignoring vulnerabilities"
+      },
+      {
+        "id": "d",
+        "text": "Selling vulnerabilities"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Responsible disclosure gives vendors time to patch before public release.",
+    "id": "q253"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "hard",
+    "question": "What are the phases of the NIST incident response lifecycle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Preparation, Detection, Analysis, Containment, Eradication, Recovery, Post-Incident"
+      },
+      {
+        "id": "b",
+        "text": "Just detection"
+      },
+      {
+        "id": "c",
+        "text": "Only recovery"
+      },
+      {
+        "id": "d",
+        "text": "No structured process"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "NIST defines a comprehensive lifecycle for handling security incidents.",
+    "id": "q254"
+  },
+  {
+    "category": "cloud-security",
+    "difficulty": "hard",
+    "question": "In the shared responsibility model, what is the customer typically responsible for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical data center security"
+      },
+      {
+        "id": "b",
+        "text": "Securing their data and access configurations"
+      },
+      {
+        "id": "c",
+        "text": "Network infrastructure"
+      },
+      {
+        "id": "d",
+        "text": "Hardware maintenance"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Customers secure their data, identities, and configurations; providers secure infrastructure.",
+    "id": "q255"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "hard",
+    "question": "What is the main advantage of Elliptic Curve Cryptography (ECC) over RSA?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ECC is less secure"
+      },
+      {
+        "id": "b",
+        "text": "ECC provides same security with smaller key sizes"
+      },
+      {
+        "id": "c",
+        "text": "RSA is always better"
+      },
+      {
+        "id": "d",
+        "text": "They are identical"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "ECC achieves equivalent security with smaller keys, improving performance.",
+    "id": "q256"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "hard",
+    "question": "What is a race condition vulnerability?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "A timing-dependent flaw where outcome depends on sequence"
+      },
+      {
+        "id": "c",
+        "text": "A network issue"
+      },
+      {
+        "id": "d",
+        "text": "A password problem"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Race conditions occur when system behavior depends on timing of events.",
+    "id": "q257"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "hard",
+    "question": "What is responsible disclosure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Publishing vulnerabilities immediately"
+      },
+      {
+        "id": "b",
+        "text": "Reporting to vendors before public disclosure"
+      },
+      {
+        "id": "c",
+        "text": "Ignoring vulnerabilities"
+      },
+      {
+        "id": "d",
+        "text": "Selling vulnerabilities"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Responsible disclosure gives vendors time to patch before public release.",
+    "id": "q258"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "hard",
+    "question": "What are the phases of the NIST incident response lifecycle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Preparation, Detection, Analysis, Containment, Eradication, Recovery, Post-Incident"
+      },
+      {
+        "id": "b",
+        "text": "Just detection"
+      },
+      {
+        "id": "c",
+        "text": "Only recovery"
+      },
+      {
+        "id": "d",
+        "text": "No structured process"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "NIST defines a comprehensive lifecycle for handling security incidents.",
+    "id": "q259"
+  },
+  {
+    "category": "cloud-security",
+    "difficulty": "hard",
+    "question": "In the shared responsibility model, what is the customer typically responsible for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical data center security"
+      },
+      {
+        "id": "b",
+        "text": "Securing their data and access configurations"
+      },
+      {
+        "id": "c",
+        "text": "Network infrastructure"
+      },
+      {
+        "id": "d",
+        "text": "Hardware maintenance"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Customers secure their data, identities, and configurations; providers secure infrastructure.",
+    "id": "q260"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "hard",
+    "question": "What is the main advantage of Elliptic Curve Cryptography (ECC) over RSA?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ECC is less secure"
+      },
+      {
+        "id": "b",
+        "text": "ECC provides same security with smaller key sizes"
+      },
+      {
+        "id": "c",
+        "text": "RSA is always better"
+      },
+      {
+        "id": "d",
+        "text": "They are identical"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "ECC achieves equivalent security with smaller keys, improving performance.",
+    "id": "q261"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "hard",
+    "question": "What is a race condition vulnerability?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "A timing-dependent flaw where outcome depends on sequence"
+      },
+      {
+        "id": "c",
+        "text": "A network issue"
+      },
+      {
+        "id": "d",
+        "text": "A password problem"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Race conditions occur when system behavior depends on timing of events.",
+    "id": "q262"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "hard",
+    "question": "What is responsible disclosure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Publishing vulnerabilities immediately"
+      },
+      {
+        "id": "b",
+        "text": "Reporting to vendors before public disclosure"
+      },
+      {
+        "id": "c",
+        "text": "Ignoring vulnerabilities"
+      },
+      {
+        "id": "d",
+        "text": "Selling vulnerabilities"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Responsible disclosure gives vendors time to patch before public release.",
+    "id": "q263"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "hard",
+    "question": "What are the phases of the NIST incident response lifecycle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Preparation, Detection, Analysis, Containment, Eradication, Recovery, Post-Incident"
+      },
+      {
+        "id": "b",
+        "text": "Just detection"
+      },
+      {
+        "id": "c",
+        "text": "Only recovery"
+      },
+      {
+        "id": "d",
+        "text": "No structured process"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "NIST defines a comprehensive lifecycle for handling security incidents.",
+    "id": "q264"
+  },
+  {
+    "category": "cloud-security",
+    "difficulty": "hard",
+    "question": "In the shared responsibility model, what is the customer typically responsible for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical data center security"
+      },
+      {
+        "id": "b",
+        "text": "Securing their data and access configurations"
+      },
+      {
+        "id": "c",
+        "text": "Network infrastructure"
+      },
+      {
+        "id": "d",
+        "text": "Hardware maintenance"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Customers secure their data, identities, and configurations; providers secure infrastructure.",
+    "id": "q265"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "hard",
+    "question": "What is the main advantage of Elliptic Curve Cryptography (ECC) over RSA?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ECC is less secure"
+      },
+      {
+        "id": "b",
+        "text": "ECC provides same security with smaller key sizes"
+      },
+      {
+        "id": "c",
+        "text": "RSA is always better"
+      },
+      {
+        "id": "d",
+        "text": "They are identical"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "ECC achieves equivalent security with smaller keys, improving performance.",
+    "id": "q266"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "hard",
+    "question": "What is a race condition vulnerability?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "A timing-dependent flaw where outcome depends on sequence"
+      },
+      {
+        "id": "c",
+        "text": "A network issue"
+      },
+      {
+        "id": "d",
+        "text": "A password problem"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Race conditions occur when system behavior depends on timing of events.",
+    "id": "q267"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "hard",
+    "question": "What is responsible disclosure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Publishing vulnerabilities immediately"
+      },
+      {
+        "id": "b",
+        "text": "Reporting to vendors before public disclosure"
+      },
+      {
+        "id": "c",
+        "text": "Ignoring vulnerabilities"
+      },
+      {
+        "id": "d",
+        "text": "Selling vulnerabilities"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Responsible disclosure gives vendors time to patch before public release.",
+    "id": "q268"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "hard",
+    "question": "What are the phases of the NIST incident response lifecycle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Preparation, Detection, Analysis, Containment, Eradication, Recovery, Post-Incident"
+      },
+      {
+        "id": "b",
+        "text": "Just detection"
+      },
+      {
+        "id": "c",
+        "text": "Only recovery"
+      },
+      {
+        "id": "d",
+        "text": "No structured process"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "NIST defines a comprehensive lifecycle for handling security incidents.",
+    "id": "q269"
+  },
+  {
+    "category": "cloud-security",
+    "difficulty": "hard",
+    "question": "In the shared responsibility model, what is the customer typically responsible for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical data center security"
+      },
+      {
+        "id": "b",
+        "text": "Securing their data and access configurations"
+      },
+      {
+        "id": "c",
+        "text": "Network infrastructure"
+      },
+      {
+        "id": "d",
+        "text": "Hardware maintenance"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Customers secure their data, identities, and configurations; providers secure infrastructure.",
+    "id": "q270"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "hard",
+    "question": "What is the main advantage of Elliptic Curve Cryptography (ECC) over RSA?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ECC is less secure"
+      },
+      {
+        "id": "b",
+        "text": "ECC provides same security with smaller key sizes"
+      },
+      {
+        "id": "c",
+        "text": "RSA is always better"
+      },
+      {
+        "id": "d",
+        "text": "They are identical"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "ECC achieves equivalent security with smaller keys, improving performance.",
+    "id": "q271"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "hard",
+    "question": "What is a race condition vulnerability?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "A timing-dependent flaw where outcome depends on sequence"
+      },
+      {
+        "id": "c",
+        "text": "A network issue"
+      },
+      {
+        "id": "d",
+        "text": "A password problem"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Race conditions occur when system behavior depends on timing of events.",
+    "id": "q272"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "hard",
+    "question": "What is responsible disclosure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Publishing vulnerabilities immediately"
+      },
+      {
+        "id": "b",
+        "text": "Reporting to vendors before public disclosure"
+      },
+      {
+        "id": "c",
+        "text": "Ignoring vulnerabilities"
+      },
+      {
+        "id": "d",
+        "text": "Selling vulnerabilities"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Responsible disclosure gives vendors time to patch before public release.",
+    "id": "q273"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "hard",
+    "question": "What are the phases of the NIST incident response lifecycle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Preparation, Detection, Analysis, Containment, Eradication, Recovery, Post-Incident"
+      },
+      {
+        "id": "b",
+        "text": "Just detection"
+      },
+      {
+        "id": "c",
+        "text": "Only recovery"
+      },
+      {
+        "id": "d",
+        "text": "No structured process"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "NIST defines a comprehensive lifecycle for handling security incidents.",
+    "id": "q274"
+  },
+  {
+    "category": "cloud-security",
+    "difficulty": "hard",
+    "question": "In the shared responsibility model, what is the customer typically responsible for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical data center security"
+      },
+      {
+        "id": "b",
+        "text": "Securing their data and access configurations"
+      },
+      {
+        "id": "c",
+        "text": "Network infrastructure"
+      },
+      {
+        "id": "d",
+        "text": "Hardware maintenance"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Customers secure their data, identities, and configurations; providers secure infrastructure.",
+    "id": "q275"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "hard",
+    "question": "What is the main advantage of Elliptic Curve Cryptography (ECC) over RSA?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ECC is less secure"
+      },
+      {
+        "id": "b",
+        "text": "ECC provides same security with smaller key sizes"
+      },
+      {
+        "id": "c",
+        "text": "RSA is always better"
+      },
+      {
+        "id": "d",
+        "text": "They are identical"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "ECC achieves equivalent security with smaller keys, improving performance.",
+    "id": "q276"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "hard",
+    "question": "What is a race condition vulnerability?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "A timing-dependent flaw where outcome depends on sequence"
+      },
+      {
+        "id": "c",
+        "text": "A network issue"
+      },
+      {
+        "id": "d",
+        "text": "A password problem"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Race conditions occur when system behavior depends on timing of events.",
+    "id": "q277"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "hard",
+    "question": "What is responsible disclosure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Publishing vulnerabilities immediately"
+      },
+      {
+        "id": "b",
+        "text": "Reporting to vendors before public disclosure"
+      },
+      {
+        "id": "c",
+        "text": "Ignoring vulnerabilities"
+      },
+      {
+        "id": "d",
+        "text": "Selling vulnerabilities"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Responsible disclosure gives vendors time to patch before public release.",
+    "id": "q278"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "hard",
+    "question": "What are the phases of the NIST incident response lifecycle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Preparation, Detection, Analysis, Containment, Eradication, Recovery, Post-Incident"
+      },
+      {
+        "id": "b",
+        "text": "Just detection"
+      },
+      {
+        "id": "c",
+        "text": "Only recovery"
+      },
+      {
+        "id": "d",
+        "text": "No structured process"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "NIST defines a comprehensive lifecycle for handling security incidents.",
+    "id": "q279"
+  },
+  {
+    "category": "cloud-security",
+    "difficulty": "hard",
+    "question": "In the shared responsibility model, what is the customer typically responsible for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical data center security"
+      },
+      {
+        "id": "b",
+        "text": "Securing their data and access configurations"
+      },
+      {
+        "id": "c",
+        "text": "Network infrastructure"
+      },
+      {
+        "id": "d",
+        "text": "Hardware maintenance"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Customers secure their data, identities, and configurations; providers secure infrastructure.",
+    "id": "q280"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "hard",
+    "question": "What is the main advantage of Elliptic Curve Cryptography (ECC) over RSA?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ECC is less secure"
+      },
+      {
+        "id": "b",
+        "text": "ECC provides same security with smaller key sizes"
+      },
+      {
+        "id": "c",
+        "text": "RSA is always better"
+      },
+      {
+        "id": "d",
+        "text": "They are identical"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "ECC achieves equivalent security with smaller keys, improving performance.",
+    "id": "q281"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "hard",
+    "question": "What is a race condition vulnerability?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "A timing-dependent flaw where outcome depends on sequence"
+      },
+      {
+        "id": "c",
+        "text": "A network issue"
+      },
+      {
+        "id": "d",
+        "text": "A password problem"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Race conditions occur when system behavior depends on timing of events.",
+    "id": "q282"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "hard",
+    "question": "What is responsible disclosure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Publishing vulnerabilities immediately"
+      },
+      {
+        "id": "b",
+        "text": "Reporting to vendors before public disclosure"
+      },
+      {
+        "id": "c",
+        "text": "Ignoring vulnerabilities"
+      },
+      {
+        "id": "d",
+        "text": "Selling vulnerabilities"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Responsible disclosure gives vendors time to patch before public release.",
+    "id": "q283"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "hard",
+    "question": "What are the phases of the NIST incident response lifecycle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Preparation, Detection, Analysis, Containment, Eradication, Recovery, Post-Incident"
+      },
+      {
+        "id": "b",
+        "text": "Just detection"
+      },
+      {
+        "id": "c",
+        "text": "Only recovery"
+      },
+      {
+        "id": "d",
+        "text": "No structured process"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "NIST defines a comprehensive lifecycle for handling security incidents.",
+    "id": "q284"
+  },
+  {
+    "category": "cloud-security",
+    "difficulty": "hard",
+    "question": "In the shared responsibility model, what is the customer typically responsible for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical data center security"
+      },
+      {
+        "id": "b",
+        "text": "Securing their data and access configurations"
+      },
+      {
+        "id": "c",
+        "text": "Network infrastructure"
+      },
+      {
+        "id": "d",
+        "text": "Hardware maintenance"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Customers secure their data, identities, and configurations; providers secure infrastructure.",
+    "id": "q285"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "hard",
+    "question": "What is the main advantage of Elliptic Curve Cryptography (ECC) over RSA?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ECC is less secure"
+      },
+      {
+        "id": "b",
+        "text": "ECC provides same security with smaller key sizes"
+      },
+      {
+        "id": "c",
+        "text": "RSA is always better"
+      },
+      {
+        "id": "d",
+        "text": "They are identical"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "ECC achieves equivalent security with smaller keys, improving performance.",
+    "id": "q286"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "hard",
+    "question": "What is a race condition vulnerability?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "A timing-dependent flaw where outcome depends on sequence"
+      },
+      {
+        "id": "c",
+        "text": "A network issue"
+      },
+      {
+        "id": "d",
+        "text": "A password problem"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Race conditions occur when system behavior depends on timing of events.",
+    "id": "q287"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "hard",
+    "question": "What is responsible disclosure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Publishing vulnerabilities immediately"
+      },
+      {
+        "id": "b",
+        "text": "Reporting to vendors before public disclosure"
+      },
+      {
+        "id": "c",
+        "text": "Ignoring vulnerabilities"
+      },
+      {
+        "id": "d",
+        "text": "Selling vulnerabilities"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Responsible disclosure gives vendors time to patch before public release.",
+    "id": "q288"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "hard",
+    "question": "What are the phases of the NIST incident response lifecycle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Preparation, Detection, Analysis, Containment, Eradication, Recovery, Post-Incident"
+      },
+      {
+        "id": "b",
+        "text": "Just detection"
+      },
+      {
+        "id": "c",
+        "text": "Only recovery"
+      },
+      {
+        "id": "d",
+        "text": "No structured process"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "NIST defines a comprehensive lifecycle for handling security incidents.",
+    "id": "q289"
+  },
+  {
+    "category": "cloud-security",
+    "difficulty": "hard",
+    "question": "In the shared responsibility model, what is the customer typically responsible for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical data center security"
+      },
+      {
+        "id": "b",
+        "text": "Securing their data and access configurations"
+      },
+      {
+        "id": "c",
+        "text": "Network infrastructure"
+      },
+      {
+        "id": "d",
+        "text": "Hardware maintenance"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Customers secure their data, identities, and configurations; providers secure infrastructure.",
+    "id": "q290"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "hard",
+    "question": "What is the main advantage of Elliptic Curve Cryptography (ECC) over RSA?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ECC is less secure"
+      },
+      {
+        "id": "b",
+        "text": "ECC provides same security with smaller key sizes"
+      },
+      {
+        "id": "c",
+        "text": "RSA is always better"
+      },
+      {
+        "id": "d",
+        "text": "They are identical"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "ECC achieves equivalent security with smaller keys, improving performance.",
+    "id": "q291"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "hard",
+    "question": "What is a race condition vulnerability?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "A timing-dependent flaw where outcome depends on sequence"
+      },
+      {
+        "id": "c",
+        "text": "A network issue"
+      },
+      {
+        "id": "d",
+        "text": "A password problem"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Race conditions occur when system behavior depends on timing of events.",
+    "id": "q292"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "hard",
+    "question": "What is responsible disclosure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Publishing vulnerabilities immediately"
+      },
+      {
+        "id": "b",
+        "text": "Reporting to vendors before public disclosure"
+      },
+      {
+        "id": "c",
+        "text": "Ignoring vulnerabilities"
+      },
+      {
+        "id": "d",
+        "text": "Selling vulnerabilities"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Responsible disclosure gives vendors time to patch before public release.",
+    "id": "q293"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "hard",
+    "question": "What are the phases of the NIST incident response lifecycle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Preparation, Detection, Analysis, Containment, Eradication, Recovery, Post-Incident"
+      },
+      {
+        "id": "b",
+        "text": "Just detection"
+      },
+      {
+        "id": "c",
+        "text": "Only recovery"
+      },
+      {
+        "id": "d",
+        "text": "No structured process"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "NIST defines a comprehensive lifecycle for handling security incidents.",
+    "id": "q294"
+  },
+  {
+    "category": "cloud-security",
+    "difficulty": "hard",
+    "question": "In the shared responsibility model, what is the customer typically responsible for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical data center security"
+      },
+      {
+        "id": "b",
+        "text": "Securing their data and access configurations"
+      },
+      {
+        "id": "c",
+        "text": "Network infrastructure"
+      },
+      {
+        "id": "d",
+        "text": "Hardware maintenance"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Customers secure their data, identities, and configurations; providers secure infrastructure.",
+    "id": "q295"
+  },
+  {
+    "category": "encryption",
+    "difficulty": "hard",
+    "question": "What is the main advantage of Elliptic Curve Cryptography (ECC) over RSA?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ECC is less secure"
+      },
+      {
+        "id": "b",
+        "text": "ECC provides same security with smaller key sizes"
+      },
+      {
+        "id": "c",
+        "text": "RSA is always better"
+      },
+      {
+        "id": "d",
+        "text": "They are identical"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "ECC achieves equivalent security with smaller keys, improving performance.",
+    "id": "q296"
+  },
+  {
+    "category": "application-security",
+    "difficulty": "hard",
+    "question": "What is a race condition vulnerability?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of encryption"
+      },
+      {
+        "id": "b",
+        "text": "A timing-dependent flaw where outcome depends on sequence"
+      },
+      {
+        "id": "c",
+        "text": "A network issue"
+      },
+      {
+        "id": "d",
+        "text": "A password problem"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Race conditions occur when system behavior depends on timing of events.",
+    "id": "q297"
+  },
+  {
+    "category": "vulnerability-management",
+    "difficulty": "hard",
+    "question": "What is responsible disclosure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Publishing vulnerabilities immediately"
+      },
+      {
+        "id": "b",
+        "text": "Reporting to vendors before public disclosure"
+      },
+      {
+        "id": "c",
+        "text": "Ignoring vulnerabilities"
+      },
+      {
+        "id": "d",
+        "text": "Selling vulnerabilities"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Responsible disclosure gives vendors time to patch before public release.",
+    "id": "q298"
+  },
+  {
+    "category": "incident-response",
+    "difficulty": "hard",
+    "question": "What are the phases of the NIST incident response lifecycle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Preparation, Detection, Analysis, Containment, Eradication, Recovery, Post-Incident"
+      },
+      {
+        "id": "b",
+        "text": "Just detection"
+      },
+      {
+        "id": "c",
+        "text": "Only recovery"
+      },
+      {
+        "id": "d",
+        "text": "No structured process"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "NIST defines a comprehensive lifecycle for handling security incidents.",
+    "id": "q299"
+  },
+  {
+    "category": "cloud-security",
+    "difficulty": "hard",
+    "question": "In the shared responsibility model, what is the customer typically responsible for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical data center security"
+      },
+      {
+        "id": "b",
+        "text": "Securing their data and access configurations"
+      },
+      {
+        "id": "c",
+        "text": "Network infrastructure"
+      },
+      {
+        "id": "d",
+        "text": "Hardware maintenance"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Customers secure their data, identities, and configurations; providers secure infrastructure.",
+    "id": "q300"
+  }
+]
