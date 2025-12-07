@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useState, Suspense } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { Button } from "@/components/ui/button";
 import {
@@ -23,7 +23,7 @@ function shuffleArray(arr) {
   return copy;
 }
 
-export default function QuizPage() {
+function QuizPageInner() {
   const router = useRouter();
   const searchParams = useSearchParams();
   const countParam = searchParams.get("count");
@@ -654,4 +654,10 @@ export default function QuizPage() {
   );
 }
 
-
+export default function QuizPage() {
+  return (
+    <Suspense fallback={<main className="min-h-screen bg-slate-950 text-slate-50 flex items-center justify-center">Loading quiz...</main>}>
+      <QuizPageInner />
+    </Suspense>
+  );
+}
